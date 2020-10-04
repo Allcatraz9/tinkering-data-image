@@ -1,0 +1,1001 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,permalink,company,numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+0,0,0,0,0,0,lifelock,LifeLock,,web,Tempe,AZ,1-May-07,6850000,USD,b
+1,1,1,1,1,1,lifelock,LifeLock,,web,Tempe,AZ,1-Oct-06,6000000,USD,a
+2,2,2,2,2,2,lifelock,LifeLock,,web,Tempe,AZ,1-Jan-08,25000000,USD,c
+3,3,3,3,3,3,mycityfaces,MyCityFaces,7.0,web,Scottsdale,AZ,1-Jan-08,50000,USD,seed
+4,4,4,4,4,4,flypaper,Flypaper,,web,Phoenix,AZ,1-Feb-08,3000000,USD,a
+5,5,5,5,5,5,infusionsoft,Infusionsoft,105.0,software,Gilbert,AZ,1-Oct-07,9000000,USD,a
+6,6,6,6,6,6,gauto,gAuto,4.0,web,Scottsdale,AZ,1-Jan-08,250000,USD,seed
+7,7,7,7,7,7,chosenlist-com,ChosenList.com,5.0,web,Scottsdale,AZ,1-Oct-06,140000,USD,seed
+8,8,8,8,8,8,chosenlist-com,ChosenList.com,5.0,web,Scottsdale,AZ,25-Jan-08,233750,USD,angel
+9,9,9,9,9,9,digg,Digg,60.0,web,San Francisco,CA,1-Dec-06,8500000,USD,b
+10,10,10,10,10,10,digg,Digg,60.0,web,San Francisco,CA,1-Oct-05,2800000,USD,a
+11,11,11,11,11,11,facebook,Facebook,450.0,web,Palo Alto,CA,1-Sep-04,500000,USD,angel
+12,12,12,12,12,12,facebook,Facebook,450.0,web,Palo Alto,CA,1-May-05,12700000,USD,a
+13,13,13,13,13,13,facebook,Facebook,450.0,web,Palo Alto,CA,1-Apr-06,27500000,USD,b
+14,14,14,14,14,14,facebook,Facebook,450.0,web,Palo Alto,CA,1-Oct-07,300000000,USD,c
+15,15,15,15,15,15,facebook,Facebook,450.0,web,Palo Alto,CA,1-Mar-08,40000000,USD,c
+16,16,16,16,16,16,facebook,Facebook,450.0,web,Palo Alto,CA,15-Jan-08,15000000,USD,c
+17,17,17,17,17,17,facebook,Facebook,450.0,web,Palo Alto,CA,1-May-08,100000000,USD,debt_round
+18,18,18,18,18,18,photobucket,Photobucket,60.0,web,Palo Alto,CA,1-May-06,10500000,USD,b
+19,19,19,19,19,19,photobucket,Photobucket,60.0,web,Palo Alto,CA,1-Mar-05,3000000,USD,a
+20,20,20,20,20,20,omnidrive,Omnidrive,,web,Palo Alto,CA,1-Dec-06,800000,USD,angel
+21,21,21,21,21,21,geni,Geni,18.0,web,West Hollywood,CA,1-Jan-07,1500000,USD,a
+22,22,22,22,22,22,geni,Geni,18.0,web,West Hollywood,CA,1-Mar-07,10000000,USD,b
+23,23,23,23,23,23,twitter,Twitter,17.0,web,San Francisco,CA,1-Jul-07,5400000,USD,b
+24,24,24,24,24,24,twitter,Twitter,17.0,web,San Francisco,CA,1-May-08,15000000,USD,c
+25,25,25,25,25,25,stumbleupon,StumbleUpon,,web,San Francisco,CA,1-Dec-05,1500000,USD,seed
+26,26,26,26,26,26,gizmoz,Gizmoz,,web,Menlo Park,CA,1-May-07,6300000,USD,a
+27,27,27,27,27,27,gizmoz,Gizmoz,,web,Menlo Park,CA,16-Mar-08,6500000,USD,b
+28,28,28,28,28,28,scribd,Scribd,14.0,web,San Francisco,CA,1-Jun-06,12000,USD,seed
+29,29,29,29,29,29,scribd,Scribd,14.0,web,San Francisco,CA,1-Jan-07,40000,USD,angel
+30,30,30,30,30,30,scribd,Scribd,14.0,web,San Francisco,CA,1-Jun-07,3710000,USD,a
+31,31,31,31,31,31,slacker,Slacker,,web,San Diego,CA,1-Jun-07,40000000,USD,b
+32,32,32,32,32,32,slacker,Slacker,,web,San Diego,CA,1-Jun-07,13500000,USD,a
+33,33,33,33,33,33,lala,Lala,,web,Palo Alto,CA,1-May-07,9000000,USD,a
+34,34,34,34,34,34,plaxo,Plaxo,50.0,web,Mountain View,CA,1-Nov-02,3800000,USD,a
+35,35,35,35,35,35,plaxo,Plaxo,50.0,web,Mountain View,CA,1-Jul-03,8500000,USD,b
+36,36,36,36,36,36,plaxo,Plaxo,50.0,web,Mountain View,CA,1-Apr-04,7000000,USD,c
+37,37,37,37,37,37,plaxo,Plaxo,50.0,web,Mountain View,CA,1-Feb-07,9000000,USD,d
+38,38,38,38,38,38,powerset,Powerset,60.0,web,San Francisco,CA,1-Jun-07,12500000,USD,a
+39,39,39,39,39,39,technorati,Technorati,25.0,web,San Francisco,CA,1-Jun-06,10520000,USD,c
+40,40,40,40,40,40,technorati,Technorati,25.0,web,San Francisco,CA,1-Sep-04,6500000,USD,b
+41,41,41,41,41,41,technorati,Technorati,25.0,web,San Francisco,CA,13-Jun-08,7500000,USD,d
+42,42,42,42,42,42,technorati,Technorati,25.0,web,San Francisco,CA,10-May-07,1000000,USD,c
+43,43,43,43,43,43,mahalo,Mahalo,40.0,web,Santa Monica,CA,1-Jan-06,5000000,USD,a
+44,44,44,44,44,44,mahalo,Mahalo,40.0,web,Santa Monica,CA,1-Jan-07,16000000,USD,b
+45,45,45,45,45,45,kyte,Kyte,40.0,web,San Francisco,CA,1-Jul-07,2250000,USD,a
+46,46,46,46,46,46,kyte,Kyte,40.0,web,San Francisco,CA,1-Dec-07,15000000,USD,b
+47,47,47,47,47,47,kyte,Kyte,40.0,web,San Francisco,CA,10-Mar-08,6100000,USD,b
+48,48,48,48,48,48,veoh,Veoh,,web,San Diego,CA,1-Apr-06,12500000,USD,b
+49,49,49,49,49,49,veoh,Veoh,,web,San Diego,CA,1-Aug-07,25000000,USD,c
+50,50,50,50,50,50,veoh,Veoh,,web,San Diego,CA,1-Jul-05,2250000,USD,a
+51,51,51,51,51,51,veoh,Veoh,,web,San Diego,CA,3-Jun-08,30000000,USD,d
+52,52,52,52,52,52,jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Oct-06,30000000,USD,c
+53,53,53,53,53,53,jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Dec-05,5000000,USD,a
+54,54,54,54,54,54,jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Apr-06,26000000,USD,b
+55,55,55,55,55,55,jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Oct-05,400000,USD,angel
+56,56,56,56,56,56,jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Jan-08,13000000,USD,c
+57,57,57,57,57,57,ning,Ning,41.0,web,Palo Alto,CA,1-Jul-07,44000000,USD,c
+58,58,58,58,58,58,ning,Ning,41.0,web,Palo Alto,CA,1-Apr-08,60000000,USD,d
+59,59,59,59,59,59,jotspot,JotSpot,,web,Palo Alto,CA,1-Aug-04,5200000,USD,a
+60,60,60,60,60,60,mercora,Mercora,,web,Sunnyvale,CA,1-Jan-05,5000000,USD,a
+61,61,61,61,61,61,wesabe,Wesabe,,web,San Francisco,CA,1-Feb-07,700000,USD,seed
+62,62,62,62,62,62,wesabe,Wesabe,,web,San Francisco,CA,1-Jun-07,4000000,USD,a
+63,63,63,63,63,63,jangl,Jangl,22.0,web,Pleasanton,CA,1-Jul-06,7000000,USD,b
+64,64,64,64,64,64,hyphen8,Hyphen 8,4.0,web,San Francisco,CA,1-Oct-07,100000,USD,angel
+65,65,65,65,65,65,prosper,Prosper,,web,San Francisco,CA,1-Jun-07,20000000,USD,c
+66,66,66,66,66,66,prosper,Prosper,,web,San Francisco,CA,1-Apr-05,7500000,USD,a
+67,67,67,67,67,67,prosper,Prosper,,web,San Francisco,CA,1-Feb-06,12500000,USD,b
+68,68,68,68,68,68,google,Google,20000.0,web,Mountain View,CA,1-Jun-99,25000000,USD,a
+69,69,69,69,69,69,jajah,Jajah,80.0,web,Mountain View,CA,1-May-07,20000000,USD,c
+70,70,70,70,70,70,jajah,Jajah,80.0,web,Mountain View,CA,1-Mar-06,3000000,USD,a
+71,71,71,71,71,71,jajah,Jajah,80.0,web,Mountain View,CA,1-Apr-06,5000000,USD,b
+72,72,72,72,72,72,youtube,YouTube,,web,San Bruno,CA,1-Nov-05,3500000,USD,a
+73,73,73,73,73,73,youtube,YouTube,,web,San Bruno,CA,1-Apr-06,8000000,USD,b
+74,74,74,74,74,74,ustream,Ustream,,web,Mountain View,CA,1-Dec-07,2000000,USD,angel
+75,75,75,75,75,75,ustream,Ustream,,web,Mountain View,CA,10-Apr-08,11100000,USD,a
+76,76,76,76,76,76,gizmoproject,GizmoProject,,web,San Diego,CA,1-Feb-06,6000000,USD,a
+77,77,77,77,77,77,adap-tv,Adap.tv,15.0,web,San Mateo,CA,1-Jul-07,10000000,USD,a
+78,78,78,78,78,78,topix,Topix,,web,Palo Alto,CA,1-Nov-06,15000000,USD,b
+79,79,79,79,79,79,revision3,Revision3,,web,San Francisco,CA,1-Sep-06,1000000,USD,a
+80,80,80,80,80,80,revision3,Revision3,,web,San Francisco,CA,1-Jun-07,8000000,USD,b
+81,81,81,81,81,81,aggregateknowledge,Aggregate Knowledge,,web,San Mateo,CA,1-Jun-06,5000000,USD,a
+82,82,82,82,82,82,aggregateknowledge,Aggregate Knowledge,,web,San Mateo,CA,1-Apr-07,20000000,USD,b
+83,83,83,83,83,83,sugarinc,Sugar Inc,,web,San Francisco,CA,1-Oct-06,5000000,USD,a
+84,84,84,84,84,84,sugarinc,Sugar Inc,,web,San Francisco,CA,1-Jun-07,10000000,USD,b
+85,85,85,85,85,85,zing,Zing,,web,Mountain View,CA,1-Jan-07,13000000,USD,a
+86,86,86,86,86,86,criticalmetrics,CriticalMetrics,4.0,web,,CA,1-Jan-07,100000,USD,angel
+87,87,87,87,87,87,spock,Spock,30.0,web,Redwood City,CA,1-Dec-06,7000000,USD,a
+88,88,88,88,88,88,wize,Wize,,web,,CA,1-Jan-07,4000000,USD,a
+89,89,89,89,89,89,sodahead,SodaHead,,web,,CA,1-Jan-07,4250000,USD,a
+90,90,90,90,90,90,sodahead,SodaHead,,web,,CA,25-Jun-08,8400000,USD,b
+91,91,91,91,91,91,casttv,CastTV,0.0,web,San Francisco,CA,1-Apr-07,3100000,USD,a
+92,92,92,92,92,92,buzznet,BuzzNet,,web,Hollywood,CA,1-May-07,6000000,USD,a
+93,93,93,93,93,93,buzznet,BuzzNet,,web,Hollywood,CA,7-Apr-08,25000000,USD,b
+94,94,94,94,94,94,funny-or-die,Funny Or Die,,web,Palo Alto,CA,1-Dec-07,15000000,USD,b
+95,95,95,95,95,95,sphere,Sphere,11.0,web,San Francisco,CA,1-May-06,3000000,USD,b
+96,96,96,96,96,96,sphere,Sphere,11.0,web,San Francisco,CA,1-Apr-05,500000,USD,a
+97,97,97,97,97,97,meevee,MeeVee,,web,Burlingame,CA,1-Feb-06,6500000,USD,b
+98,98,98,98,98,98,meevee,MeeVee,,web,Burlingame,CA,1-Aug-06,8000000,USD,c
+99,99,99,99,99,99,meevee,MeeVee,,web,Burlingame,CA,1-Feb-05,7000000,USD,a
+100,100,100,100,100,100,meevee,MeeVee,,web,Burlingame,CA,1-Sep-07,3500000,USD,d
+101,101,101,101,101,101,mashery,Mashery,0.0,web,San Francisco,CA,26-Jun-08,2000000,USD,c
+102,102,102,102,102,102,yelp,Yelp,,web,San Francisco,CA,1-Oct-06,10000000,USD,c
+103,103,103,103,103,103,yelp,Yelp,,web,San Francisco,CA,1-Oct-05,5000000,USD,b
+104,104,104,104,104,104,yelp,Yelp,,web,San Francisco,CA,1-Jul-04,1000000,USD,a
+105,105,105,105,105,105,yelp,Yelp,,web,San Francisco,CA,26-Feb-08,15000000,USD,d
+106,106,106,106,106,106,spotplex,Spotplex,3.0,web,Santa Clara,CA,1-Jan-07,450000,USD,angel
+107,107,107,107,107,107,coghead,Coghead,21.0,web,Redwood City,CA,1-Mar-06,3200000,USD,a
+108,108,108,108,108,108,coghead,Coghead,21.0,web,Redwood City,CA,1-Mar-07,8000000,USD,b
+109,109,109,109,109,109,zooomr,Zooomr,,web,San Francisco,CA,1-Feb-06,50000,USD,angel
+110,110,110,110,110,110,sidestep,SideStep,75.0,web,Santa Clara,CA,1-Feb-07,15000000,USD,c
+111,111,111,111,111,111,sidestep,SideStep,75.0,web,Santa Clara,CA,1-Jan-04,8000000,USD,b
+112,112,112,112,112,112,sidestep,SideStep,75.0,web,Santa Clara,CA,1-Dec-99,2200000,USD,a
+113,113,113,113,113,113,sidestep,SideStep,75.0,web,Santa Clara,CA,1-Oct-00,6800000,USD,a
+114,114,114,114,114,114,rockyou,RockYou,,web,San Mateo,CA,1-Jan-07,1500000,USD,a
+115,115,115,115,115,115,rockyou,RockYou,,web,San Mateo,CA,1-Mar-07,15000000,USD,b
+116,116,116,116,116,116,rockyou,RockYou,,web,San Mateo,CA,9-Jun-08,35000000,USD,c
+117,117,117,117,117,117,rockyou,RockYou,,web,San Mateo,CA,27-May-08,1000000,USD,unattributed
+118,118,118,118,118,118,pageflakes,Pageflakes,20.0,web,San Francisco,CA,1-May-06,1300000,USD,a
+119,119,119,119,119,119,swivel,Swivel,,web,San Francisco,CA,1-Sep-06,1000000,USD,a
+120,120,120,120,120,120,swivel,Swivel,,web,San Francisco,CA,1-Apr-07,1000000,USD,a
+121,121,121,121,121,121,slide,Slide,64.0,web,San Francisco,CA,1-Jul-05,8000000,USD,b
+122,122,122,122,122,122,slide,Slide,64.0,web,San Francisco,CA,1-Jan-08,50000000,USD,d
+123,123,123,123,123,123,bebo,Bebo,,web,San Francisco,CA,1-May-06,15000000,USD,a
+124,124,124,124,124,124,freebase,freebase,,web,San Francisco,CA,1-Mar-06,15000000,USD,a
+125,125,125,125,125,125,freebase,freebase,,web,San Francisco,CA,1-Jan-08,42500000,USD,b
+126,126,126,126,126,126,metawebtechnologies,Metaweb Technologies,,web,San Francisco,CA,15-Jan-08,42000000,USD,b
+127,127,127,127,127,127,glammedia,Glam Media,,web,Brisbane,CA,1-Jul-04,1100000,USD,a
+128,128,128,128,128,128,glammedia,Glam Media,,web,Brisbane,CA,1-Jul-05,10000000,USD,b
+129,129,129,129,129,129,glammedia,Glam Media,,web,Brisbane,CA,1-Dec-06,18500000,USD,c
+130,130,130,130,130,130,glammedia,Glam Media,,web,Brisbane,CA,1-Feb-08,65000000,USD,d
+131,131,131,131,131,131,glammedia,Glam Media,,web,Brisbane,CA,1-Feb-08,20000000,USD,d
+132,132,132,132,132,132,thefind,TheFind,,web,Mountain View,CA,1-Feb-05,7000000,USD,a
+133,133,133,133,133,133,thefind,TheFind,,web,Mountain View,CA,1-Oct-06,4000000,USD,b
+134,134,134,134,134,134,thefind,TheFind,,web,Mountain View,CA,1-Jul-07,15000000,USD,c
+135,135,135,135,135,135,zazzle,Zazzle,,web,Redwood City,CA,1-Jul-05,16000000,USD,a
+136,136,136,136,136,136,zazzle,Zazzle,,web,Redwood City,CA,1-Oct-07,30000000,USD,b
+137,137,137,137,137,137,dogster,Dogster,,web,San Francisco,CA,1-Sep-06,1000000,USD,angel
+138,138,138,138,138,138,pandora,Pandora,80.0,web,Oakland,CA,1-Jan-04,7800000,USD,b
+139,139,139,139,139,139,pandora,Pandora,80.0,web,Oakland,CA,1-Oct-05,12000000,USD,c
+140,140,140,140,140,140,pandora,Pandora,80.0,web,Oakland,CA,2-Mar-00,1500000,USD,a
+141,141,141,141,141,141,cafepress,Cafepress,300.0,web,Foster City,CA,1-Mar-00,1200000,USD,a
+142,142,142,142,142,142,cafepress,Cafepress,300.0,web,Foster City,CA,1-May-01,300000,USD,a
+143,143,143,143,143,143,cafepress,Cafepress,300.0,web,Foster City,CA,1-Feb-05,14000000,USD,b
+144,144,144,144,144,144,pbwiki,pbwiki,15.0,web,,CA,11-Sep-06,350000,USD,a
+145,145,145,145,145,145,pbwiki,pbwiki,15.0,web,,CA,1-Feb-07,2100000,USD,b
+146,146,146,146,146,146,adbrite,AdBrite,,web,San Francisco,CA,1-Sep-04,4000000,USD,a
+147,147,147,147,147,147,adbrite,AdBrite,,web,San Francisco,CA,1-Feb-06,8000000,USD,b
+148,148,148,148,148,148,adbrite,AdBrite,,web,San Francisco,CA,1-Nov-07,23000000,USD,c
+149,149,149,149,149,149,loomia,Loomia,,web,San Francisco,CA,1-Jun-05,1000000,USD,seed
+150,150,150,150,150,150,loomia,Loomia,,web,San Francisco,CA,1-Apr-08,5000000,USD,a
+151,151,151,151,151,151,meebo,Meebo,40.0,web,Mountain View,CA,1-Dec-05,3500000,USD,a
+152,152,152,152,152,152,meebo,Meebo,40.0,web,Mountain View,CA,1-Jan-07,9000000,USD,b
+153,153,153,153,153,153,meebo,Meebo,40.0,web,Mountain View,CA,30-Apr-08,25000000,USD,c
+154,154,154,154,154,154,eventbrite,Eventbrite,13.0,web,San Francisco,CA,1-Nov-06,100000,USD,angel
+155,155,155,155,155,155,linkedin,LinkedIn,,web,Mountain View,CA,1-Nov-03,4700000,USD,a
+156,156,156,156,156,156,linkedin,LinkedIn,,web,Mountain View,CA,1-Oct-04,10000000,USD,b
+157,157,157,157,157,157,linkedin,LinkedIn,,web,Mountain View,CA,1-Jan-07,12800000,USD,c
+158,158,158,158,158,158,linkedin,LinkedIn,,web,Mountain View,CA,17-Jun-08,53000000,USD,d
+159,159,159,159,159,159,flickim,FlickIM,,web,Berkeley,CA,1-Mar-07,1600000,USD,a
+160,160,160,160,160,160,terabitz,Terabitz,12.0,web,Palo Alto,CA,1-Feb-07,10000000,USD,a
+161,161,161,161,161,161,healthline,Healthline,,web,San Francisco,CA,1-Jan-06,14000000,USD,a
+162,162,162,162,162,162,healthline,Healthline,,web,San Francisco,CA,1-Jul-07,21000000,USD,b
+163,163,163,163,163,163,box-net,Box.net,19.0,web,Palo Alto,CA,1-Oct-06,1500000,USD,a
+164,164,164,164,164,164,box-net,Box.net,19.0,web,Palo Alto,CA,23-Jan-08,6000000,USD,b
+165,165,165,165,165,165,conduit,Conduit,,web,Redwood Shores,CA,1-Jul-06,1800000,USD,a
+166,166,166,166,166,166,conduit,Conduit,,web,Redwood Shores,CA,1-Jan-08,8000000,USD,b
+167,167,167,167,167,167,edgeio,Edgeio,,web,Palo Alto,CA,1-Jul-07,5000000,USD,a
+168,168,168,168,168,168,spotrunner,Spot Runner,,web,Los Angeles,CA,1-Jan-06,10000000,USD,a
+169,169,169,169,169,169,spotrunner,Spot Runner,,web,Los Angeles,CA,1-Oct-06,40000000,USD,b
+170,170,170,170,170,170,spotrunner,Spot Runner,,web,Los Angeles,CA,7-May-08,51000000,USD,c
+171,171,171,171,171,171,kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-05,1500000,USD,a
+172,172,172,172,172,172,kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-06,2000000,USD,b
+173,173,173,173,173,173,kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-07,1500000,USD,c
+174,174,174,174,174,174,giga-omni-media,Giga Omni Media,18.0,web,San Francisco,CA,1-Jun-06,325000,USD,a
+175,175,175,175,175,175,visiblepath,Visible Path,,web,Foster City,CA,1-Mar-06,17000000,USD,b
+176,176,176,176,176,176,visiblepath,Visible Path,,web,Foster City,CA,1-Mar-06,7700000,USD,a
+177,177,177,177,177,177,wink,Wink,,web,Mountain View,CA,1-Jan-05,6200000,USD,a
+178,178,178,178,178,178,seesmic,seesmic,,web,San Francisco,CA,1-Nov-07,6000000,USD,a
+179,179,179,179,179,179,seesmic,seesmic,,web,San Francisco,CA,20-Jun-08,6000000,USD,b
+180,180,180,180,180,180,zvents,Zvents,,web,San Mateo,CA,7-Nov-06,7000000,USD,a
+181,181,181,181,181,181,zvents,Zvents,,web,San Mateo,CA,5-Oct-05,200000,USD,seed
+182,182,182,182,182,182,eventful,Eventful,35.0,web,San Diego,CA,1-Sep-06,7500000,USD,b
+183,183,183,183,183,183,eventful,Eventful,35.0,web,San Diego,CA,1-Mar-05,2100000,USD,a
+184,184,184,184,184,184,oodle,Oodle,,web,San Mateo,CA,1-May-06,5000000,USD,a
+185,185,185,185,185,185,oodle,Oodle,,web,San Mateo,CA,1-Jul-07,11000000,USD,b
+186,186,186,186,186,186,odesk,oDesk,,web,Menlo Park,CA,1-Apr-06,6000000,USD,a
+187,187,187,187,187,187,odesk,oDesk,,web,Menlo Park,CA,1-Sep-06,8000000,USD,b
+188,188,188,188,188,188,odesk,oDesk,,web,Menlo Park,CA,1-Jun-08,15000000,USD,c
+189,189,189,189,189,189,simplyhired,SimplyHired,,web,Mountain View,CA,1-Mar-06,13500000,USD,b
+190,190,190,190,190,190,simplyhired,SimplyHired,,web,Mountain View,CA,5-Aug-05,3000000,USD,a
+191,191,191,191,191,191,ooma,ooma,47.0,web,Palo Alto,CA,1-Jan-05,8000000,USD,a
+192,192,192,192,192,192,ooma,ooma,47.0,web,Palo Alto,CA,1-Dec-06,18000000,USD,b
+193,193,193,193,193,193,goingon,GoingOn,3.0,web,Woodside,CA,1-Aug-05,1000000,USD,seed
+194,194,194,194,194,194,flixster,Flixster,17.0,web,San Francisco,CA,1-Feb-07,2000000,USD,a
+195,195,195,195,195,195,flixster,Flixster,17.0,web,San Francisco,CA,4-Apr-08,5000000,USD,b
+196,196,196,196,196,196,piczo,Piczo,,web,San Francisco,CA,1-Jan-07,11000000,USD,c
+197,197,197,197,197,197,socialtext,Socialtext,,web,Palo Alto,CA,1-Jun-04,300000,USD,angel
+198,198,198,198,198,198,socialtext,Socialtext,,web,Palo Alto,CA,1-Jun-05,3100000,USD,b
+199,199,199,199,199,199,socialtext,Socialtext,,web,Palo Alto,CA,1-Nov-07,9500000,USD,c
+200,200,200,200,200,200,powerreviews,PowerReview,,web,Millbrae,CA,1-Dec-05,6250000,USD,a
+201,201,201,201,201,201,powerreviews,PowerReview,,web,Millbrae,CA,1-Sep-07,15000000,USD,b
+202,202,202,202,202,202,hi5,hi5,100.0,web,San Francisco,CA,1-Jul-07,20000000,USD,a
+203,203,203,203,203,203,hi5,hi5,100.0,web,San Francisco,CA,1-Dec-07,15000000,USD,debt_round
+204,204,204,204,204,204,tagged,Tagged,,web,San Francisco,CA,1-Sep-05,1500000,USD,angel
+205,205,205,205,205,205,tagged,Tagged,,web,San Francisco,CA,1-Dec-05,7000000,USD,a
+206,206,206,206,206,206,tagged,Tagged,,web,San Francisco,CA,1-Jul-07,15000000,USD,b
+207,207,207,207,207,207,jaxtr,Jaxtr,,web,Menlo Park,CA,1-Jul-07,1500000,USD,angel
+208,208,208,208,208,208,jaxtr,Jaxtr,,web,Menlo Park,CA,1-Aug-07,10000000,USD,a
+209,209,209,209,209,209,jaxtr,Jaxtr,,web,Menlo Park,CA,23-Jun-08,10000000,USD,b
+210,210,210,210,210,210,m,Me,,web,San Jose,CA,1-May-07,1500000,USD,seed
+211,211,211,211,211,211,intronetworks,introNetworks,9.0,web,Santa Barbara,CA,1-May-07,2700000,USD,a
+212,212,212,212,212,212,leveragesoftware,Leverage Software,21.0,web,San Francisco,CA,14-May-05,6000000,USD,a
+213,213,213,213,213,213,lithiumtechnologies,Lithium Technologies,42.0,web,Emeryville,CA,17-Apr-07,9000000,USD,a
+214,214,214,214,214,214,lithiumtechnologies,Lithium Technologies,42.0,web,Emeryville,CA,1-Jun-08,12000000,USD,b
+215,215,215,215,215,215,genius,Genius,,web,San Mateo,CA,1-Mar-06,5100000,USD,a
+216,216,216,216,216,216,genius,Genius,,web,San Mateo,CA,1-Jan-07,10000000,USD,b
+217,217,217,217,217,217,genius,Genius,,web,San Mateo,CA,5-Feb-08,19000000,USD,c
+218,218,218,218,218,218,respectance,Respectance,,web,San Francisco,CA,1-Jun-07,250000,USD,seed
+219,219,219,219,219,219,respectance,Respectance,,web,San Francisco,CA,1-Jul-07,1500000,USD,a
+220,220,220,220,220,220,curse,Curse,,web,San Francisco,CA,1-Jul-07,5000000,USD,a
+221,221,221,221,221,221,licketyship,LicketyShip,,web,San Francisco,CA,1-Dec-07,1500000,USD,angel
+222,222,222,222,222,222,grockit,Grockit,8.0,web,San Francisco,CA,1-Jun-07,2300000,USD,a
+223,223,223,223,223,223,grockit,Grockit,8.0,web,San Francisco,CA,30-May-08,8000000,USD,b
+224,224,224,224,224,224,peerme,PeerMe,,web,Mountain View,CA,1-Jan-05,5000000,USD,a
+225,225,225,225,225,225,kiptronic,Kiptronic,20.0,web,San Francisco,CA,1-Dec-06,4000000,USD,a
+226,226,226,226,226,226,kiptronic,Kiptronic,20.0,web,San Francisco,CA,1-Nov-05,300000,USD,angel
+227,227,227,227,227,227,kiptronic,Kiptronic,20.0,web,San Francisco,CA,5-Jun-08,3000000,USD,b
+228,228,228,228,228,228,vuze,Vuze,,web,Palo Alto,CA,1-Dec-06,12000000,USD,b
+229,229,229,229,229,229,vuze,Vuze,,web,Palo Alto,CA,1-Dec-07,20000000,USD,c
+230,230,230,230,230,230,phonezoo,Phonezoo,,web,Sunnyvale,CA,1-Jun-06,560000,USD,a
+231,231,231,231,231,231,phonezoo,Phonezoo,,web,Sunnyvale,CA,1-Feb-07,1500000,USD,a
+232,232,232,232,232,232,droplettechnology,Droplet Technology,,web,Menlo Park,CA,1-Oct-06,3500000,USD,a
+233,233,233,233,233,233,podtech,PodTech,,web,Palo Alto,CA,1-Mar-06,5500000,USD,a
+234,234,234,234,234,234,podtech,PodTech,,web,Palo Alto,CA,1-Jun-07,2000000,USD,a
+235,235,235,235,235,235,crackle,Crackle,,web,Mill Valley,CA,1-Dec-05,1750000,USD,a
+236,236,236,236,236,236,reddit,Reddit,,web,San Francisco,CA,1-Jun-05,100000,USD,seed
+237,237,237,237,237,237,wikia,Wikia,,web,San Mateo,CA,1-Mar-06,4000000,USD,a
+238,238,238,238,238,238,wikia,Wikia,,web,San Mateo,CA,1-Dec-06,10000000,USD,b
+239,239,239,239,239,239,retrevo,Retrevo,,web,Sunnyvale,CA,1-Dec-06,3200000,USD,a
+240,240,240,240,240,240,retrevo,Retrevo,,web,Sunnyvale,CA,1-Feb-06,700000,USD,seed
+241,241,241,241,241,241,retrevo,Retrevo,,web,Sunnyvale,CA,20-Mar-08,8000000,USD,b
+242,242,242,242,242,242,buxfer,Buxfer,2.0,web,Mountain View,CA,1-Jan-07,15000,USD,seed
+243,243,243,243,243,243,buxfer,Buxfer,2.0,web,Mountain View,CA,1-Apr-07,300000,USD,angel
+244,244,244,244,244,244,yousendit,YouSendIt,0.0,web,Campbell,CA,24-Apr-07,10000000,USD,b
+245,245,245,245,245,245,yousendit,YouSendIt,0.0,web,Campbell,CA,1-Aug-05,10000000,USD,a
+246,246,246,246,246,246,yousendit,YouSendIt,0.0,web,Campbell,CA,15-Jul-08,14000000,USD,c
+247,247,247,247,247,247,tangler,Tangler,,web,Mountain View,CA,1-Jul-06,1500000,USD,angel
+248,248,248,248,248,248,obopay,obopay,,web,Redwood City,CA,1-Feb-06,10000000,USD,a
+249,249,249,249,249,249,obopay,obopay,,web,Redwood City,CA,1-Sep-06,7000000,USD,b
+250,250,250,250,250,250,obopay,obopay,,web,Redwood City,CA,1-Jul-07,29000000,USD,c
+251,251,251,251,251,251,obopay,obopay,,web,Redwood City,CA,21-Apr-08,20000000,USD,d
+252,252,252,252,252,252,paypal,PayPal,,web,San Jose,CA,1-Apr-00,100000000,USD,c
+253,253,253,253,253,253,paypal,PayPal,,web,San Jose,CA,1-Feb-01,90000000,USD,d
+254,254,254,254,254,254,paypal,PayPal,,web,San Jose,CA,1-Jul-99,4000000,USD,b
+255,255,255,255,255,255,talkplus,TalkPlus,,web,San Mateo,CA,1-Oct-06,5500000,USD,a
+256,256,256,256,256,256,vudu,Vudu,50.0,hardware,Santa Clara,CA,1-Jun-05,21000000,USD,a
+257,257,257,257,257,257,insiderpages,Insider Pages,,web,Redwood City,CA,1-Mar-06,8500000,USD,a
+258,258,258,258,258,258,snapfish,Snapfish,,web,San Francisco,CA,1-Nov-99,7500000,USD,a
+259,259,259,259,259,259,snapfish,Snapfish,,web,San Francisco,CA,1-May-00,36000000,USD,b
+260,260,260,260,260,260,affinitycircles,Affinity Circles,22.0,web,Mountain View,CA,1-May-06,4100000,USD,c
+261,261,261,261,261,261,affinitycircles,Affinity Circles,22.0,web,Mountain View,CA,1-Jun-05,1000000,USD,b
+262,262,262,262,262,262,affinitycircles,Affinity Circles,22.0,web,Mountain View,CA,1-Dec-04,440000,USD,a
+263,263,263,263,263,263,imvu,IMVU,,web,Palo Alto,CA,1-Feb-06,1000000,USD,angel
+264,264,264,264,264,264,nirvanix,Nirvanix,,web,San Diego,CA,19-Dec-07,18000000,USD,a
+265,265,265,265,265,265,fuzzwich,Habit Industries,4.0,web,Palo Alto,CA,1-Jun-07,15000,USD,seed
+266,266,266,266,266,266,gaia,Gaia,,web,San Jose,CA,1-Jun-06,8930000,USD,a
+267,267,267,267,267,267,gaia,Gaia,,web,San Jose,CA,1-Mar-07,12000000,USD,b
+268,268,268,268,268,268,gaia,Gaia,,web,San Jose,CA,14-Jul-08,11000000,USD,c
+269,269,269,269,269,269,greatcall,GreatCall,,web,Del Mar,CA,1-Aug-07,36600000,USD,a
+270,270,270,270,270,270,revver,Revver,,web,Los Angeles,CA,1-Nov-05,4000000,USD,a
+271,271,271,271,271,271,revver,Revver,,web,Los Angeles,CA,1-Apr-06,8700000,USD,b
+272,272,272,272,272,272,metacafe,Metacafe,,web,Palo Alto,CA,1-Jul-06,15000000,USD,b
+273,273,273,273,273,273,metacafe,Metacafe,,web,Palo Alto,CA,1-Aug-07,30000000,USD,c
+274,274,274,274,274,274,flock,Flock,40.0,web,Redwood City,CA,1-Nov-05,3300000,USD,b
+275,275,275,275,275,275,flock,Flock,40.0,web,Redwood City,CA,1-Jun-06,10000000,USD,c
+276,276,276,276,276,276,flock,Flock,40.0,web,Redwood City,CA,21-May-08,15000000,USD,d
+277,277,277,277,277,277,vmixmedia,VMIX Media,42.0,web,San Diego,CA,1-Mar-06,5000000,USD,a
+278,278,278,278,278,278,vmixmedia,VMIX Media,42.0,web,San Diego,CA,1-Oct-07,16500000,USD,b
+279,279,279,279,279,279,kontera,Kontera,,web,San Francisco,CA,1-Aug-07,10300000,USD,b
+280,280,280,280,280,280,kontera,Kontera,,web,San Francisco,CA,1-Jul-06,7000000,USD,a
+281,281,281,281,281,281,tokbox,Tokbox,,web,San Francisco,CA,1-Oct-07,4000000,USD,a
+282,282,282,282,282,282,tokbox,Tokbox,,web,San Francisco,CA,6-Aug-08,10000000,USD,b
+283,283,283,283,283,283,six-apart,Six Apart,150.0,web,San Francisco,CA,1-Oct-04,10000000,USD,b
+284,284,284,284,284,284,six-apart,Six Apart,150.0,web,San Francisco,CA,1-Mar-06,12000000,USD,c
+285,285,285,285,285,285,six-apart,Six Apart,150.0,web,San Francisco,CA,23-Apr-03,600000,USD,a
+286,286,286,286,286,286,weebly,Weebly,,web,San Francisco,CA,1-May-07,650000,USD,seed
+287,287,287,287,287,287,synthasite,Synthasite,26.0,web,San Francisco,CA,1-Nov-07,5000000,USD,a
+288,288,288,288,288,288,bittorrent,BitTorrent,29.0,web,San Francisco,CA,1-Sep-05,8750000,USD,a
+289,289,289,289,289,289,bittorrent,BitTorrent,29.0,web,San Francisco,CA,1-Dec-06,25000000,USD,b
+290,290,290,290,290,290,kongregate,Kongregate,16.0,web,San Francisco,CA,1-Mar-07,1000000,USD,a
+291,291,291,291,291,291,kongregate,Kongregate,16.0,web,San Francisco,CA,1-Aug-07,5000000,USD,b
+292,292,292,292,292,292,kongregate,Kongregate,16.0,web,San Francisco,CA,1-Apr-08,3000000,USD,b
+293,293,293,293,293,293,dancejam,DanceJam,0.0,web,San Francisco,CA,1-May-07,1000000,USD,angel
+294,294,294,294,294,294,dancejam,DanceJam,0.0,web,San Francisco,CA,1-Feb-08,3500000,USD,a
+295,295,295,295,295,295,fathomonline,Fathom Online,,web,San Francisco,CA,1-Jul-04,6000000,USD,a
+296,296,296,296,296,296,zivity,Zivity,16.0,web,San Francisco,CA,1-Aug-07,1000000,USD,seed
+297,297,297,297,297,297,zivity,Zivity,16.0,web,San Francisco,CA,1-Mar-08,7000000,USD,b
+298,298,298,298,298,298,bluelithium,BlueLithium,135.0,web,San Jose,CA,1-Feb-05,11500000,USD,a
+299,299,299,299,299,299,expresso,eXpresso,,web,Menlo Park,CA,1-Oct-07,2000000,USD,a
+300,300,300,300,300,300,doostang,Doostang,,web,Palo Alto,CA,1-Sep-07,3500000,USD,a
+301,301,301,301,301,301,docstoc,Docstoc,,web,Beverly Hills,CA,1-Nov-07,750000,USD,a
+302,302,302,302,302,302,docstoc,Docstoc,,web,Beverly Hills,CA,28-Apr-08,3250000,USD,b
+303,303,303,303,303,303,mevio,Mevio,,web,San Francisco,CA,1-Jul-05,8900000,USD,a
+304,304,304,304,304,304,mevio,Mevio,,web,San Francisco,CA,1-Sep-06,15000000,USD,b
+305,305,305,305,305,305,mevio,Mevio,,web,San Francisco,CA,9-Jul-08,15000000,USD,c
+306,306,306,306,306,306,purevideo,PureVideo Networks,,web,Los Angeles,CA,1-Dec-05,5600000,USD,a
+307,307,307,307,307,307,purevideo,PureVideo Networks,,web,Los Angeles,CA,1-Sep-07,2850000,USD,b
+308,308,308,308,308,308,filmloop,FilmLoop,,web,Menlo Park,CA,1-Feb-05,5600000,USD,a
+309,309,309,309,309,309,bitpass,BitPass,,web,Mountain View,CA,1-Jul-03,1500000,USD,a
+310,310,310,310,310,310,bitpass,BitPass,,web,Mountain View,CA,1-Sep-04,11800000,USD,b
+311,311,311,311,311,311,art-com,Art.com,500.0,web,Emeryville,CA,1-Feb-05,30000000,USD,a
+312,312,312,312,312,312,atomshockwave,Atom Shockwave,,web,San Francisco,CA,1-Mar-01,22900000,USD,a
+313,313,313,313,313,313,cinemanow,CinemaNow,,web,Marina Del Rey,CA,1-Jul-04,11000000,USD,a
+314,314,314,314,314,314,digitalchocolate,Digital Chocolate,,web,San Mateo,CA,1-Dec-03,8400000,USD,a
+315,315,315,315,315,315,digitalchocolate,Digital Chocolate,,web,San Mateo,CA,1-Dec-03,13000000,USD,b
+316,316,316,316,316,316,eharmony,eHarmony,,web,Pasadena,CA,1-Jun-00,3000000,USD,a
+317,317,317,317,317,317,eharmony,eHarmony,,web,Pasadena,CA,1-Nov-04,110000000,USD,b
+318,318,318,318,318,318,friendster,Friendster,465.0,web,San Francisco,CA,1-Dec-02,2400000,USD,a
+319,319,319,319,319,319,friendster,Friendster,465.0,web,San Francisco,CA,1-Oct-03,13000000,USD,b
+320,320,320,320,320,320,friendster,Friendster,465.0,web,San Francisco,CA,1-Aug-06,10000000,USD,c
+321,321,321,321,321,321,friendster,Friendster,465.0,web,San Francisco,CA,5-Aug-08,20000000,USD,d
+322,322,322,322,322,322,greystripe,Greystripe,,web,San Francisco,CA,1-May-07,8900000,USD,b
+323,323,323,323,323,323,slingmedia,Sling Media,,web,Foster City,CA,1-Nov-04,10500000,USD,a
+324,324,324,324,324,324,slingmedia,Sling Media,,web,Foster City,CA,1-Jul-05,4000000,USD,a
+325,325,325,325,325,325,trulia,Trulia,,web,San Francisco,CA,1-Dec-05,5700000,USD,b
+326,326,326,326,326,326,trulia,Trulia,,web,San Francisco,CA,1-May-07,10000000,USD,c
+327,327,327,327,327,327,trulia,Trulia,,web,San Francisco,CA,1-Sep-05,2100000,USD,a
+328,328,328,328,328,328,trulia,Trulia,,web,San Francisco,CA,10-Jul-08,15000000,USD,d
+329,329,329,329,329,329,lendingclub,Lending Club,,web,Sunnyvale,CA,1-May-07,2000000,USD,angel
+330,330,330,330,330,330,lendingclub,Lending Club,,web,Sunnyvale,CA,1-Aug-07,10260000,USD,a
+331,331,331,331,331,331,tubemogul,tubemogul,15.0,web,Emeryville,CA,7-Feb-08,1500000,USD,a
+332,332,332,332,332,332,gemini,Gemini,,web,San Mateo,CA,1-Mar-07,20000000,USD,a
+333,333,333,333,333,333,gemini,Gemini,,web,San Mateo,CA,1-May-07,5000000,USD,b
+334,334,334,334,334,334,multiverse,Multiverse,,web,Mountain View,CA,1-May-07,4175000,USD,a
+335,335,335,335,335,335,multiverse,Multiverse,,web,Mountain View,CA,17-Apr-07,850000,USD,angel
+336,336,336,336,336,336,limelife,LimeLife,,mobile,Menlo Park,CA,28-Mar-06,10000000,USD,b
+337,337,337,337,337,337,limelife,LimeLife,,mobile,Menlo Park,CA,1-Aug-05,5000000,USD,a
+338,338,338,338,338,338,limelife,LimeLife,,mobile,Menlo Park,CA,24-May-07,3900000,USD,b
+339,339,339,339,339,339,opentable,OpenTable,,web,San Francisco,CA,1-May-99,2000000,USD,a
+340,340,340,340,340,340,opentable,OpenTable,,web,San Francisco,CA,1-Jan-00,10000000,USD,b
+341,341,341,341,341,341,opentable,OpenTable,,web,San Francisco,CA,1-Oct-00,36000000,USD,c
+342,342,342,342,342,342,rooftopcomedy,RooftopComedy,20.0,web,San Francisco,CA,1-May-07,2500000,USD,a
+343,343,343,343,343,343,federatedmedia,Federated Media,,web,Sausalito,CA,1-Aug-07,4500000,USD,b
+344,344,344,344,344,344,federatedmedia,Federated Media,,web,Sausalito,CA,1-Apr-08,50000000,USD,c
+345,345,345,345,345,345,deliveryagent,Delivery Agent,,web,San Francisco,CA,1-May-07,18500000,USD,c
+346,346,346,346,346,346,deliveryagent,Delivery Agent,,web,San Francisco,CA,17-May-06,11000000,USD,b
+347,347,347,347,347,347,deliveryagent,Delivery Agent,,web,San Francisco,CA,29-Mar-05,5500000,USD,a
+348,348,348,348,348,348,reunion,Reunion,100.0,web,Los Angeles,CA,1-Apr-07,25000000,USD,a
+349,349,349,349,349,349,mixercast,Mixercast,,web,San Mateo,CA,1-May-05,2600000,USD,a
+350,350,350,350,350,350,mixercast,Mixercast,,web,San Mateo,CA,1-Jan-08,6000000,USD,b
+351,351,351,351,351,351,mtraks,mTraks,,web,San Diego,CA,1-May-07,550000,USD,angel
+352,352,352,352,352,352,xora,Xora,,web,Mountain View,CA,1-May-01,7000000,USD,a
+353,353,353,353,353,353,xora,Xora,,web,Mountain View,CA,1-Feb-03,4000000,USD,b
+354,354,354,354,354,354,xora,Xora,,web,Mountain View,CA,1-Jun-07,4000000,USD,debt_round
+355,355,355,355,355,355,ooyala,Ooyala,,web,Mountain View,CA,1-Jan-08,8500000,USD,b
+356,356,356,356,356,356,saynow,SayNow,14.0,web,Palo Alto,CA,1-Sep-07,7500000,USD,a
+357,357,357,357,357,357,crunchyroll,Crunchyroll,,web,San Francsico,CA,1-Feb-08,4050000,USD,a
+358,358,358,358,358,358,circleup,CircleUp,19.0,web,Newport Beach,CA,1-Jun-07,3000000,USD,a
+359,359,359,359,359,359,pixsense,PixSense,,web,Santa Clara,CA,1-Dec-06,5400000,USD,a
+360,360,360,360,360,360,pixsense,PixSense,,web,Santa Clara,CA,1-Jun-07,2000000,USD,b
+361,361,361,361,361,361,danal,Danal,,web,San Jose,CA,1-Jun-07,9500000,USD,a
+362,362,362,362,362,362,hulu,hulu,,web,Los Angeles,CA,1-Aug-07,100000000,USD,a
+363,363,363,363,363,363,ourstory,OurStory,,web,Mountain View,CA,1-Jan-06,6300000,USD,a
+364,364,364,364,364,364,specificmedia,Specificmedia,,web,Ir vine,CA,1-Jun-06,10000000,USD,a
+365,365,365,365,365,365,specificmedia,Specificmedia,,web,Ir vine,CA,1-Nov-07,100000000,USD,b
+366,366,366,366,366,366,admob,AdMob,,web,San Mateo,CA,1-Mar-07,15000000,USD,b
+367,367,367,367,367,367,mysql,MySQL,,web,Cupertino,CA,1-Feb-06,18500000,USD,c
+368,368,368,368,368,368,mysql,MySQL,,web,Cupertino,CA,1-Jun-03,19500000,USD,b
+369,369,369,369,369,369,attributor,Attributor,0.0,web,Redwood City,CA,28-Jan-06,2000000,USD,a
+370,370,370,370,370,370,attributor,Attributor,0.0,web,Redwood City,CA,2-Apr-08,12000000,USD,c
+371,371,371,371,371,371,attributor,Attributor,0.0,web,Redwood City,CA,18-Dec-06,8000000,USD,b
+372,372,372,372,372,372,socialmedia,Social Media,15.0,web,Palo Alto,CA,1-Sep-07,500000,USD,a
+373,373,373,373,373,373,socialmedia,Social Media,15.0,web,Palo Alto,CA,1-Oct-07,3500000,USD,b
+374,374,374,374,374,374,demandmedia,Demand Media,,web,Santa Monica,CA,1-May-06,120000000,USD,a
+375,375,375,375,375,375,demandmedia,Demand Media,,web,Santa Monica,CA,1-Sep-06,100000000,USD,b
+376,376,376,376,376,376,demandmedia,Demand Media,,web,Santa Monica,CA,1-Sep-07,100000000,USD,c
+377,377,377,377,377,377,demandmedia,Demand Media,,web,Santa Monica,CA,24-Mar-08,35000000,USD,d
+378,378,378,378,378,378,tripit,TripIt,8.0,web,San Francisco,CA,1-Apr-07,1000000,USD,seed
+379,379,379,379,379,379,pubmatic,PubMatic,35.0,web,Palo Alto,CA,1-Jan-08,7000000,USD,a
+380,380,380,380,380,380,mint,Mint,22.0,web,Mountain View,CA,1-Oct-07,4700000,USD,a
+381,381,381,381,381,381,mint,Mint,22.0,web,Mountain View,CA,1-Oct-06,325000,USD,seed
+382,382,382,382,382,382,mint,Mint,22.0,web,Mountain View,CA,5-Mar-08,12000000,USD,b
+383,383,383,383,383,383,app2you,app2you,4.0,web,La Jolla,CA,20-Nov-07,255000,USD,angel
+384,384,384,384,384,384,app2you,app2you,4.0,web,La Jolla,CA,1-Oct-06,177000,USD,angel
+385,385,385,385,385,385,yourstreet,YourStreet,6.0,web,San Francisco,CA,1-Oct-06,250000,USD,angel
+386,386,386,386,386,386,tagworld,Tagworld,,web,Santa Monica,CA,1-Mar-06,7500000,USD,a
+387,387,387,387,387,387,tagworld,Tagworld,,web,Santa Monica,CA,1-Dec-06,40000000,USD,b
+388,388,388,388,388,388,rotohog,RotoHog,,web,Inglewood,CA,1-Aug-07,6000000,USD,a
+389,389,389,389,389,389,thisnext,ThisNext,0.0,web,Santa Monica,CA,1-Jan-08,5000000,USD,b
+390,390,390,390,390,390,thisnext,ThisNext,0.0,web,Santa Monica,CA,1-Jan-06,2500000,USD,a
+391,391,391,391,391,391,chesspark,ChessPark,,web,West Palm Beach,CA,1-Jul-07,1000000,USD,angel
+392,392,392,392,392,392,break,Break,,web,Beverly Hills,CA,1-Jul-07,21400000,USD,a
+393,393,393,393,393,393,musestorm,MuseStorm,,web,Sunnyvale,CA,1-Jul-07,1000000,USD,a
+394,394,394,394,394,394,mediamachines,Media Machines,,web,San Francisco,CA,1-Aug-07,9400000,USD,a
+395,395,395,395,395,395,mig33,Ciihui,,web,Burlingame,CA,1-May-07,10000000,USD,a
+396,396,396,396,396,396,mig33,Ciihui,,web,Burlingame,CA,1-Jan-08,13500000,USD,b
+397,397,397,397,397,397,aliph,Aliph,,web,San Francisco,CA,1-Jul-07,5000000,USD,a
+398,398,398,398,398,398,mego,mEgo,15.0,web,Los Angeles,CA,1-May-06,1100000,USD,angel
+399,399,399,399,399,399,mego,mEgo,15.0,web,Los Angeles,CA,1-Jul-07,2000000,USD,angel
+400,400,400,400,400,400,realius,Realius,3.0,web,Berkeley,CA,1-May-07,500000,USD,angel
+401,401,401,401,401,401,xobni,Xobni,0.0,software,San Francisco,CA,1-Jun-06,12000,USD,seed
+402,402,402,402,402,402,xobni,Xobni,0.0,software,San Francisco,CA,1-Nov-06,80000,USD,angel
+403,403,403,403,403,403,xobni,Xobni,0.0,software,San Francisco,CA,1-Mar-07,4260000,USD,a
+404,404,404,404,404,404,spoke,Spoke,0.0,web,San Mateo,CA,18-Nov-03,11700000,USD,c
+405,405,405,405,405,405,spoke,Spoke,0.0,web,San Mateo,CA,24-Apr-03,9200000,USD,b
+406,406,406,406,406,406,fixya,FixYa,30.0,web,San Mateo,CA,1-Jan-07,2000000,USD,a
+407,407,407,407,407,407,fixya,FixYa,30.0,web,San Mateo,CA,18-Mar-08,6000000,USD,b
+408,408,408,408,408,408,mozilla,Mozilla,150.0,web,Mountain View,CA,15-Jul-03,2000000,USD,unattributed
+409,409,409,409,409,409,brightqube,BrightQube,0.0,web,Carlsbad,CA,1-May-07,200000,USD,angel
+410,410,410,410,410,410,buzzdash,BuzzDash,0.0,web,Marina del Rey,CA,1-Sep-06,1200000,USD,angel
+411,411,411,411,411,411,urbanmapping,Urban Mapping,9.0,web,San Francisco,CA,1-May-06,400000,USD,seed
+412,412,412,412,412,412,consortemedia,Consorte Media,0.0,web,San Francisco,CA,1-Dec-07,7000000,USD,b
+413,413,413,413,413,413,ffwd,ffwd,,web,San Francisco,CA,1-Aug-07,1700000,USD,a
+414,414,414,414,414,414,satisfaction,Get Satisfaction,,web,San Francisco,CA,1-Sep-07,1300000,USD,a
+415,415,415,415,415,415,ringcentral,RingCentral,,web,Redwood City,CA,1-Sep-07,12000000,USD,a
+416,416,416,416,416,416,ringcentral,RingCentral,,web,Redwood City,CA,1-Feb-08,12000000,USD,b
+417,417,417,417,417,417,3jam,3Jam,,web,Menlo Park,CA,1-Jul-07,4000000,USD,a
+418,418,418,418,418,418,playspan,PlaySpan,,web,Santa Clara,CA,1-Sep-07,6500000,USD,a
+419,419,419,419,419,419,grouply,Grouply,6.0,web,Redwood City,CA,1-Jun-07,935000,USD,angel
+420,420,420,420,420,420,grouply,Grouply,6.0,web,Redwood City,CA,1-Jan-08,365000,USD,angel
+421,421,421,421,421,421,grouply,Grouply,6.0,web,Redwood City,CA,14-Jan-08,1300000,USD,a
+422,422,422,422,422,422,graspr,Graspr,,web,Sunnyvale,CA,10-Jul-08,2500000,USD,a
+423,423,423,423,423,423,zannel,Zannel,,web,San Francisco,CA,2-Jun-08,10000000,USD,b
+424,424,424,424,424,424,deca-tv,deca.tv,,web,Santa Monica,CA,1-Sep-07,5000000,USD,a
+425,425,425,425,425,425,zimbra,Zimbra,,web,San Mateo,CA,1-Apr-06,14500000,USD,c
+426,426,426,426,426,426,friendfeed,FriendFeed,,web,Mountain View,CA,26-Feb-08,5000000,USD,a
+427,427,427,427,427,427,rupture,Rupture,15.0,web,San Francisco,CA,1-Jul-07,3000000,USD,angel
+428,428,428,428,428,428,jibjab,JibJab,,web,Santa Monica,CA,1-Oct-07,3000000,USD,b
+429,429,429,429,429,429,rubiconproject,Rubicon Project,,web,Los Angeles,CA,1-Oct-07,4000000,USD,a
+430,430,430,430,430,430,rubiconproject,Rubicon Project,,web,Los Angeles,CA,1-Oct-07,2000000,USD,debt_round
+431,431,431,431,431,431,rubiconproject,Rubicon Project,,web,Los Angeles,CA,28-Jan-08,15000000,USD,b
+432,432,432,432,432,432,snaplayout,SnapLayout,,web,San Francisco,CA,1-May-07,650000,USD,a
+433,433,433,433,433,433,confabb,Confabb,,web,,CA,1-Aug-07,200000,USD,angel
+434,434,434,434,434,434,uptake,UpTake,,web,Palo Alto,CA,18-Dec-07,4000000,USD,a
+435,435,435,435,435,435,23andme,23andMe,30.0,web,Mountain View,CA,1-May-07,9000000,USD,a
+436,436,436,436,436,436,yume,YuMe,,web,Redwood City,CA,1-Oct-07,9000000,USD,b
+437,437,437,437,437,437,mochimedia,Mochi Media,,web,San Francisco,CA,12-Mar-08,4000000,USD,a
+438,438,438,438,438,438,mochimedia,Mochi Media,,web,San Francisco,CA,18-Jun-08,10000000,USD,b
+439,439,439,439,439,439,blurb,Blurb,,web,San Francisco,CA,1-Oct-06,12000000,USD,b
+440,440,440,440,440,440,weatherbill,WeatherBill,,web,San Francisco,CA,1-Oct-07,12600000,USD,a
+441,441,441,441,441,441,automattic,Automattic,20.0,web,San Francisco,CA,1-Jul-05,1100000,USD,a
+442,442,442,442,442,442,automattic,Automattic,20.0,web,San Francisco,CA,1-Jan-08,29500000,USD,b
+443,443,443,443,443,443,twine,Radar Networks,,web,San Francisco,CA,1-Apr-06,5000000,USD,a
+444,444,444,444,444,444,twine,Radar Networks,,web,San Francisco,CA,1-Feb-08,13000000,USD,b
+445,445,445,445,445,445,veodia,Veodia,15.0,web,San Mateo,CA,12-May-08,8300000,USD,a
+446,446,446,446,446,446,echosign,EchoSign,,web,Palo Alto,CA,1-Oct-07,6000000,USD,a
+447,447,447,447,447,447,rollbase,Rollbase,0.0,web,Mountain View,CA,1-Aug-07,400000,USD,angel
+448,448,448,448,448,448,predictify,Predictify,6.0,web,Redwood City,CA,25-Mar-08,4300000,USD,a
+449,449,449,449,449,449,trialpay,TrialPay,50.0,web,San Francisco,CA,1-Feb-08,12700000,USD,b
+450,450,450,450,450,450,socializr,Socializr,,web,San Francisco,CA,1-Sep-07,1500000,USD,a
+451,451,451,451,451,451,eurekster,Eurekster,0.0,web,,CA,1-Dec-04,1350000,USD,a
+452,452,452,452,452,452,eurekster,Eurekster,0.0,web,,CA,13-Mar-07,5500000,USD,b
+453,453,453,453,453,453,gydget,Gydget,,web,San Francisco,CA,1-Aug-06,1000000,USD,a
+454,454,454,454,454,454,pickspal,PicksPal,,web,Mountain View,CA,1-Oct-07,3000000,USD,c
+455,455,455,455,455,455,gigya,Gigya,,web,Palo Alto,CA,1-Feb-07,3000000,USD,a
+456,456,456,456,456,456,gigya,Gigya,,web,Palo Alto,CA,9-Mar-08,9500000,USD,b
+457,457,457,457,457,457,songbird,Songbird,,web,San Francisco,CA,1-Dec-06,8000000,USD,seed
+458,458,458,458,458,458,guardiananalytics,Guardian Analytics,,web,Los Altos,CA,1-Oct-07,4500000,USD,b
+459,459,459,459,459,459,fora-tv,Fora.TV,,web,San Francisco,CA,1-Oct-07,4000000,USD,a
+460,460,460,460,460,460,disqus,Disqus,3.0,web,San Francisco,CA,18-Mar-08,500000,USD,a
+461,461,461,461,461,461,sezwho,SezWho,9.0,web,Los Altos,CA,1-Oct-07,1000000,USD,a
+462,462,462,462,462,462,yieldbuild,YieldBuild,,web,San Francisco,CA,3-Mar-08,6000000,USD,b
+463,463,463,463,463,463,akimbo,Akimbo,,web,San Mateo,CA,1-Jun-06,15500000,USD,c
+464,464,464,464,464,464,akimbo,Akimbo,,web,San Mateo,CA,1-Jul-04,12000000,USD,b
+465,465,465,465,465,465,akimbo,Akimbo,,web,San Mateo,CA,1-Jun-03,4200000,USD,seed
+466,466,466,466,466,466,akimbo,Akimbo,,web,San Mateo,CA,29-Feb-08,8000000,USD,d
+467,467,467,467,467,467,laszlosystems,Laszlo Systems,60.0,software,San Mateo,CA,6-Mar-08,14600000,USD,c
+468,468,468,468,468,468,laszlosystems,Laszlo Systems,60.0,software,San Mateo,CA,15-Apr-05,6250000,USD,b
+469,469,469,469,469,469,brightroll,BrightRoll,,web,San Francisco,CA,1-Oct-07,5000000,USD,b
+470,470,470,470,470,470,merchantcircle,MerchantCircle,10.0,web,Los Altos,CA,1-Sep-07,10000000,USD,b
+471,471,471,471,471,471,minekey,Minekey,,web,Sunnyvale,CA,1-Aug-07,3000000,USD,a
+472,472,472,472,472,472,bookingangel,Booking Angel,,web,Hollywood,CA,1-Aug-07,100000,USD,angel
+473,473,473,473,473,473,loopt,Loopt,,web,Mountain View,CA,1-Jun-05,6000,USD,seed
+474,474,474,474,474,474,loopt,Loopt,,web,Mountain View,CA,23-Jul-07,8250000,USD,b
+475,475,475,475,475,475,fix8,Fix8,,web,Sherman Oaks,CA,1-Oct-07,3000000,USD,a
+476,476,476,476,476,476,fix8,Fix8,,web,Sherman Oaks,CA,3-Apr-08,2000000,USD,b
+477,477,477,477,477,477,mybuys,MyBuys,,web,Redwood Shores,CA,21-Feb-07,2800000,USD,a
+478,478,478,478,478,478,mybuys,MyBuys,,web,Redwood Shores,CA,8-Oct-07,10000000,USD,b
+479,479,479,479,479,479,blackarrow,BlackArrow,35.0,web,San Mateo,CA,1-Oct-07,12000000,USD,b
+480,480,480,480,480,480,blackarrow,BlackArrow,35.0,web,San Mateo,CA,1-Nov-06,14750000,USD,a
+481,481,481,481,481,481,peerflix,Peerflix,,web,Palo Alto,CA,1-Oct-05,8000000,USD,b
+482,482,482,482,482,482,peerflix,Peerflix,,web,Palo Alto,CA,1-Mar-05,2000000,USD,a
+483,483,483,483,483,483,fatdoor,fatdoor,,web,Palo Alto,CA,1-Nov-07,5500000,USD,a
+484,484,484,484,484,484,fatdoor,fatdoor,,web,Palo Alto,CA,1-Feb-07,1000000,USD,angel
+485,485,485,485,485,485,fatdoor,fatdoor,,web,Palo Alto,CA,1-May-07,500000,USD,debt_round
+486,486,486,486,486,486,verimatrix,Verimatrix,100.0,web,San Diego,CA,1-Jun-06,8000000,USD,b
+487,487,487,487,487,487,verimatrix,Verimatrix,100.0,web,San Diego,CA,1-Oct-07,5000000,USD,c
+488,488,488,488,488,488,billeo,Billeo,,web,Santa Clara,CA,1-Nov-07,7000000,USD,b
+489,489,489,489,489,489,billeo,Billeo,,web,Santa Clara,CA,1-Apr-06,4000000,USD,a
+490,490,490,490,490,490,caring-com,Caring.com,,web,San Mateo,CA,1-Sep-07,6000000,USD,a
+491,491,491,491,491,491,ask-com,Ask.com,475.0,web,Oakland,CA,1-Mar-99,25000000,USD,a
+492,492,492,492,492,492,projectplaylist,Project Playlist,,web,Palo Alto,CA,1-Sep-07,3000000,USD,a
+493,493,493,493,493,493,blowtorch,Blowtorch,,web,Sausalito,CA,1-Nov-07,50000000,USD,a
+494,494,494,494,494,494,gamelayers,GameLayers,,web,San Francisco,CA,1-Oct-07,500000,USD,seed
+495,495,495,495,495,495,mogreet,MoGreet,,web,Venice,CA,1-Aug-07,1200000,USD,a
+496,496,496,496,496,496,mogreet,MoGreet,,web,Venice,CA,20-Jun-08,2500000,USD,b
+497,497,497,497,497,497,yourtrumanshow,YourTrumanShow,,web,San Francisco,CA,1-Dec-06,1300000,USD,angel
+498,498,498,498,498,498,apprema,Apprema,,web,Sunnyvale,CA,1-Nov-07,800000,USD,debt_round
+499,499,499,499,499,499,trustedid,TrustedID,100.0,web,Redwood City,CA,1-Jan-07,5000000,USD,a
+500,500,500,500,500,500,trustedid,TrustedID,100.0,web,Redwood City,CA,18-Oct-07,10000000,USD,b
+501,501,501,501,501,501,seeqpod,Seeqpod,25.0,web,Emeryville,CA,1-Apr-08,7000000,USD,angel
+502,502,502,502,502,502,quantenna,Quantenna,,web,Sunnyvale,CA,1-Nov-07,12700000,USD,b
+503,503,503,503,503,503,qwaq,Qwaq,,web,Palo Alto,CA,1-Nov-07,7000000,USD,b
+504,504,504,504,504,504,uber,uber,24.0,web,Beverly Hills,CA,26-May-08,7600000,USD,b
+505,505,505,505,505,505,cashview,CashView,,web,Palo Alto,CA,1-Sep-07,6500000,USD,b
+506,506,506,506,506,506,crossloop,CrossLoop,8.0,web,Monterey,CA,1-Dec-07,3000000,USD,a
+507,507,507,507,507,507,dapper,Dapper,20.0,web,San Francisco,CA,1-Dec-07,3000000,USD,a
+508,508,508,508,508,508,anchorintelligence,Anchor Intelligence,,web,Mountain View,CA,1-Jan-07,2000000,USD,a
+509,509,509,509,509,509,anchorintelligence,Anchor Intelligence,,web,Mountain View,CA,1-Sep-07,4000000,USD,b
+510,510,510,510,510,510,edgecast,EdgeCast,30.0,web,Los Angeles,CA,1-Dec-07,6000000,USD,b
+511,511,511,511,511,511,edgecast,EdgeCast,30.0,web,Los Angeles,CA,1-Jun-07,4000000,USD,a
+512,512,512,512,512,512,kosmix,Kosmix,,web,Mountain View,CA,1-Dec-07,10000000,USD,c
+513,513,513,513,513,513,goodreads,GoodReads,,web,Santa Monica,CA,1-Nov-07,750000,USD,angel
+514,514,514,514,514,514,ribbit,Ribbit,28.0,web,Mountain View,CA,1-Dec-07,10000000,USD,b
+515,515,515,515,515,515,ribbit,Ribbit,28.0,web,Mountain View,CA,1-Oct-06,3000000,USD,a
+516,516,516,516,516,516,jobvite,Jobvite,,web,San Francisco,CA,1-Dec-07,7200000,USD,a
+517,517,517,517,517,517,juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Apr-05,500000,USD,a
+518,518,518,518,518,518,juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Jan-06,1500000,USD,a
+519,519,519,519,519,519,juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Jul-06,4000000,USD,a
+520,520,520,520,520,520,juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Mar-07,3300000,USD,b
+521,521,521,521,521,521,juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Dec-07,6000000,USD,c
+522,522,522,522,522,522,qik,Qik,22.0,web,Foster City,CA,9-Apr-08,3000000,USD,b
+523,523,523,523,523,523,playfirst,PlayFirst,,web,San Francisco,CA,1-Dec-07,16500000,USD,c
+524,524,524,524,524,524,playfirst,PlayFirst,,web,San Francisco,CA,1-Jan-06,5000000,USD,b
+525,525,525,525,525,525,mobissimo,Mobissimo,15.0,web,San Francisco,CA,1-Apr-04,1000000,USD,seed
+526,526,526,526,526,526,chumby,Chumby,20.0,hardware,San Diego,CA,1-Dec-06,5000000,USD,a
+527,527,527,527,527,527,chumby,Chumby,20.0,hardware,San Diego,CA,31-Mar-08,12500000,USD,b
+528,528,528,528,528,528,ugobe,UGOBE,,web,Emeryville,CA,1-Oct-06,8000000,USD,b
+529,529,529,529,529,529,ausra,Ausra,4.0,web,Palo Alto,CA,1-Sep-07,40000000,USD,a
+530,530,530,530,530,530,causes,Causes,,web,Berkeley,CA,1-Jan-07,2350000,USD,a
+531,531,531,531,531,531,causes,Causes,,web,Berkeley,CA,1-Mar-08,5000000,USD,b
+532,532,532,532,532,532,nanosolar,Nanosolar,,web,San Jose,CA,1-May-05,20000000,USD,b
+533,533,533,533,533,533,nanosolar,Nanosolar,,web,San Jose,CA,1-Jun-06,75000000,USD,c
+534,534,534,534,534,534,shozu,Shozu,,web,San Francisco,CA,1-May-05,12000000,USD,b
+535,535,535,535,535,535,shozu,Shozu,,web,San Francisco,CA,29-Jan-08,12000000,USD,c
+536,536,536,536,536,536,tesla-motors,Tesla Motors,270.0,hardware,San Carlos,CA,1-May-06,40000000,USD,c
+537,537,537,537,537,537,tesla-motors,Tesla Motors,270.0,hardware,San Carlos,CA,1-May-07,45000000,USD,d
+538,538,538,538,538,538,tesla-motors,Tesla Motors,270.0,hardware,San Carlos,CA,1-Apr-04,7500000,USD,a
+539,539,539,539,539,539,tesla-motors,Tesla Motors,270.0,hardware,San Carlos,CA,1-Feb-05,13000000,USD,b
+540,540,540,540,540,540,tesla-motors,Tesla Motors,270.0,hardware,San Carlos,CA,8-Feb-08,40000000,USD,e
+541,541,541,541,541,541,bunchball,Bunchball,,web,Redwood City,CA,1-Oct-06,2000000,USD,a
+542,542,542,542,542,542,bunchball,Bunchball,,web,Redwood City,CA,13-Apr-08,4000000,USD,b
+543,543,543,543,543,543,pinger,Pinger,,web,San Jose,CA,1-Dec-06,8000000,USD,b
+544,544,544,544,544,544,hooja,Hooja,,web,Palo Alto,CA,1-Dec-07,1250000,USD,seed
+545,545,545,545,545,545,travelmuse,TravelMuse,11.0,web,Los Altos,CA,1-May-07,3000000,USD,a
+546,546,546,546,546,546,cooking-com,Cooking.com,,web,Santa Monica,CA,1-Jan-08,7000000,USD,debt_round
+547,547,547,547,547,547,cooking-com,Cooking.com,,web,Santa Monica,CA,1-May-00,35000000,USD,e
+548,548,548,548,548,548,cooking-com,Cooking.com,,web,Santa Monica,CA,1-Apr-99,16000000,USD,b
+549,549,549,549,549,549,cooking-com,Cooking.com,,web,Santa Monica,CA,1-Oct-99,30000000,USD,c
+550,550,550,550,550,550,meraki,Meraki,,web,Mountain View,CA,1-Feb-07,5000000,USD,a
+551,551,551,551,551,551,meraki,Meraki,,web,Mountain View,CA,1-Jan-08,20000000,USD,b
+552,552,552,552,552,552,sugarcrm,SugarCRM,,web,Cupertino,CA,1-Jan-08,14500000,USD,d
+553,553,553,553,553,553,sugarcrm,SugarCRM,,web,Cupertino,CA,1-Oct-05,18770000,USD,c
+554,554,554,554,554,554,sugarcrm,SugarCRM,,web,Cupertino,CA,1-Aug-04,2000000,USD,a
+555,555,555,555,555,555,sugarcrm,SugarCRM,,web,Cupertino,CA,1-Feb-05,5750000,USD,b
+556,556,556,556,556,556,puddingmedia,Pudding Media,11.0,software,San Jose,CA,1-Jan-08,8000000,USD,a
+557,557,557,557,557,557,4homemedia,4HomeMedia,10.0,web,Sunnyvale,CA,1-Jan-07,2850000,USD,a
+558,558,558,558,558,558,pageonce,Pageonce,,web,Palo Alto,CA,1-Jan-08,1500000,USD,a
+559,559,559,559,559,559,bluepulse,bluepulse,0.0,web,San Mateo,CA,1-Apr-07,6000000,USD,a
+560,560,560,560,560,560,mogad,Mogad,2.0,web,San Francisco,CA,1-Aug-07,500000,USD,a
+561,561,561,561,561,561,devicevm,DeviceVM,,web,San Jose,CA,1-Aug-06,10000000,USD,a
+562,562,562,562,562,562,devicevm,DeviceVM,,web,San Jose,CA,1-Oct-07,10000000,USD,b
+563,563,563,563,563,563,outspark,Outspark,,web,San Francisco,CA,11-Apr-07,4000000,USD,a
+564,564,564,564,564,564,outspark,Outspark,,web,San Francisco,CA,1-Jan-08,11000000,USD,b
+565,565,565,565,565,565,engineyard,Engine Yard,60.0,web,San Francisco,CA,1-Jan-08,3500000,USD,a
+566,566,566,566,566,566,engineyard,Engine Yard,60.0,web,San Francisco,CA,13-Jul-08,15000000,USD,b
+567,567,567,567,567,567,plymedia,PLYmedia,,web,Palo Alto,CA,1-Oct-06,2500000,USD,a
+568,568,568,568,568,568,plymedia,PLYmedia,,web,Palo Alto,CA,1-Jul-08,6000000,USD,b
+569,569,569,569,569,569,fabrik,fabrik,175.0,web,San Mateo,CA,1-Sep-05,4100000,USD,a
+570,570,570,570,570,570,fabrik,fabrik,175.0,web,San Mateo,CA,1-Jun-06,8000000,USD,b
+571,571,571,571,571,571,fabrik,fabrik,175.0,web,San Mateo,CA,1-Feb-07,14300000,USD,c
+572,572,572,572,572,572,fabrik,fabrik,175.0,web,San Mateo,CA,1-May-07,24900000,USD,d
+573,573,573,573,573,573,widgetbox,Widgetbox,,web,San Francisco,CA,1-Jun-06,1500000,USD,angel
+574,574,574,574,574,574,widgetbox,Widgetbox,,web,San Francisco,CA,1-Jan-08,8000000,USD,b
+575,575,575,575,575,575,widgetbox,Widgetbox,,web,San Francisco,CA,1-Jun-07,5000000,USD,a
+576,576,576,576,576,576,razorgator,RazorGator,,web,Los Angeles,CA,1-Mar-05,26000000,USD,a
+577,577,577,577,577,577,razorgator,RazorGator,,web,Los Angeles,CA,1-Mar-06,22800000,USD,b
+578,578,578,578,578,578,oversee,OverSee,150.0,web,Los Angeles,CA,1-Jan-07,60000000,USD,debt_round
+579,579,579,579,579,579,oversee,OverSee,150.0,web,Los Angeles,CA,1-Jan-08,150000000,USD,a
+580,580,580,580,580,580,zynga,Zynga,90.0,other,San Francisco,CA,1-Jan-08,10000000,USD,a
+581,581,581,581,581,581,zynga,Zynga,90.0,other,San Francisco,CA,22-Jul-08,29000000,USD,b
+582,582,582,582,582,582,smaato,Smaato,,web,San Mateo,CA,1-Jan-08,3500000,USD,a
+583,583,583,583,583,583,credit-karma,Credit Karma,4.0,web,San Francisco,CA,1-May-07,750000,USD,angel
+584,584,584,584,584,584,greenplum,Greenplum,,web,San Mateo,CA,1-Jan-08,27000000,USD,c
+585,585,585,585,585,585,greenplum,Greenplum,,web,San Mateo,CA,1-Feb-07,15000000,USD,b
+586,586,586,586,586,586,greenplum,Greenplum,,web,San Mateo,CA,1-Mar-06,15000000,USD,a
+587,587,587,587,587,587,greenplum,Greenplum,,web,San Mateo,CA,1-Feb-07,4000000,USD,debt_round
+588,588,588,588,588,588,amobee,Amobee,,web,Redwood City,CA,1-Nov-06,5000000,USD,a
+589,589,589,589,589,589,amobee,Amobee,,web,Redwood City,CA,1-Jan-07,15000000,USD,b
+590,590,590,590,590,590,webmynd,WebMynd,,web,San Francisco,CA,1-Jul-08,250000,USD,angel
+591,591,591,591,591,591,currenttv,Current Media,,web,San Francisco,CA,29-Jul-05,15000000,USD,a
+592,592,592,592,592,592,heroku,Heroku,3.0,web,San Francisco,CA,1-Jan-08,20000,USD,seed
+593,593,593,593,593,593,heroku,Heroku,3.0,web,San Francisco,CA,8-May-08,3000000,USD,a
+594,594,594,594,594,594,lookery,Lookery,9.0,web,San Francisco,CA,7-Feb-08,900000,USD,seed
+595,595,595,595,595,595,mill-river-labs,Mill River Labs,5.0,web,Mountain View,CA,1-Jan-08,900000,USD,angel
+596,596,596,596,596,596,grouptivity,Grouptivity,10.0,web,San Mateo,CA,1-May-06,2000000,USD,angel
+597,597,597,597,597,597,aductions,Aductions,5.0,web,San Jose,CA,5-Jul-07,100000,USD,seed
+598,598,598,598,598,598,venturebeat,VentureBeat,,web,,CA,11-Feb-08,320000,USD,seed
+599,599,599,599,599,599,collarity,Collarity,30.0,web,Palo Alto,CA,1-Feb-08,7800000,USD,b
+600,600,600,600,600,600,rocketon,RocketOn,,web,South San Francisco,CA,1-Feb-08,5800000,USD,b
+601,601,601,601,601,601,what-they-like,What They Like,10.0,web,San Francisco,CA,29-Aug-07,990000,USD,a
+602,602,602,602,602,602,gumgum,GumGum,5.0,web,Los Angeles,CA,1-Dec-07,225000,USD,seed
+603,603,603,603,603,603,gumgum,GumGum,5.0,web,Los Angeles,CA,21-Jul-08,1000000,USD,a
+604,604,604,604,604,604,snap-technologies,Snap Technologies,32.0,web,Pasadena,CA,1-Jul-05,10000000,USD,a
+605,605,605,605,605,605,twofish,TwoFish,,web,Redwood City,CA,1-Jun-07,5000000,USD,a
+606,606,606,606,606,606,three-rings,Three Rings,30.0,web,San Francisco,CA,3-Mar-08,3500000,USD,a
+607,607,607,607,607,607,smalltown,Smalltown,8.0,web,San Mateo,CA,1-Nov-05,4000000,USD,a
+608,608,608,608,608,608,sparkplay-media,Sparkplay Media,,web,Mill Valley,CA,1-Feb-08,4250000,USD,a
+609,609,609,609,609,609,mog,MOG,,web,Berkeley,CA,1-Mar-07,1800000,USD,angel
+610,610,610,610,610,610,mog,MOG,,web,Berkeley,CA,29-Apr-08,2800000,USD,a
+611,611,611,611,611,611,social-gaming-network,Social Gaming Network,,web,Palo Alto,CA,13-May-08,15000000,USD,a
+612,612,612,612,612,612,danger,Danger,,software,Palo Alto,CA,1-Oct-01,36000000,USD,b
+613,613,613,613,613,613,danger,Danger,,software,Palo Alto,CA,1-Feb-03,35000000,USD,d
+614,614,614,614,614,614,danger,Danger,,software,Palo Alto,CA,1-Jul-04,37000000,USD,d
+615,615,615,615,615,615,coverity,Coverity,,software,San Francisco,CA,1-Feb-08,22000000,USD,a
+616,616,616,616,616,616,genietown,GenieTown,8.0,web,Palo Alto,CA,1-Oct-07,2000000,USD,a
+617,617,617,617,617,617,redux,Redux,11.0,web,Berkeley,CA,1-Mar-07,1650000,USD,seed
+618,618,618,618,618,618,redux,Redux,11.0,web,Berkeley,CA,7-Apr-08,6500000,USD,a
+619,619,619,619,619,619,evernote,Evernote,,software,Sunnyvale,CA,1-Mar-06,6000000,USD,angel
+620,620,620,620,620,620,evernote,Evernote,,software,Sunnyvale,CA,1-Sep-07,3000000,USD,angel
+621,621,621,621,621,621,numobiq,Numobiq,,mobile,Pleasanton,CA,8-Feb-08,4500000,USD,a
+622,622,622,622,622,622,goldspot-media,GoldSpot Media,,mobile,Sunnyvale,CA,23-Jan-08,3000000,USD,a
+623,623,623,623,623,623,mobixell,Mobixell,,mobile,Cupertino,CA,8-Jul-08,6000000,USD,a
+624,624,624,624,624,624,ad-infuse,Ad Infuse,,mobile,San Francisco,CA,23-Jan-08,12000000,USD,b
+625,625,625,625,625,625,ad-infuse,Ad Infuse,,mobile,San Francisco,CA,1-Jun-06,5000000,USD,a
+626,626,626,626,626,626,sendme,SendMe,,mobile,San Francisco,CA,1-Dec-06,6000000,USD,b
+627,627,627,627,627,627,sendme,SendMe,,mobile,San Francisco,CA,18-Mar-08,15000000,USD,c
+628,628,628,628,628,628,tiny-pictures,Tiny Pictures,15.0,mobile,San Francisco,CA,1-Aug-07,4000000,USD,a
+629,629,629,629,629,629,tiny-pictures,Tiny Pictures,15.0,mobile,San Francisco,CA,1-Feb-08,7200000,USD,b
+630,630,630,630,630,630,flurry,flurry,,mobile,San Francisco,CA,8-Mar-07,3500000,USD,a
+631,631,631,631,631,631,sharpcast,Sharpcast,,,Palo Alto,CA,8-Mar-06,13500000,USD,a
+632,632,632,632,632,632,sharpcast,Sharpcast,,,Palo Alto,CA,8-Mar-06,3000000,USD,b
+633,633,633,633,633,633,teneros,Teneros,,software,Mountain View,CA,1-Jul-04,7000000,USD,a
+634,634,634,634,634,634,teneros,Teneros,,software,Mountain View,CA,1-Mar-05,17500000,USD,b
+635,635,635,635,635,635,teneros,Teneros,,software,Mountain View,CA,1-Apr-06,20000000,USD,c
+636,636,636,636,636,636,teneros,Teneros,,software,Mountain View,CA,1-Jan-08,40000000,USD,d
+637,637,637,637,637,637,photocrank,PhotoCrank,3.0,web,Palo Alto,CA,1-Apr-07,250000,USD,seed
+638,638,638,638,638,638,yodlee,Yodlee,,web,Redwood City,CA,4-Jun-08,35000000,USD,unattributed
+639,639,639,639,639,639,sliderocket,SlideRocket,5.0,web,San Francisco,CA,31-Dec-07,2000000,USD,a
+640,640,640,640,640,640,surf-canyon,Surf Canyon,3.0,software,Oakland,CA,31-Jul-07,250000,USD,seed
+641,641,641,641,641,641,surf-canyon,Surf Canyon,3.0,software,Oakland,CA,8-May-08,600000,USD,seed
+642,642,642,642,642,642,central-desktop,Central Desktop,,web,Pasadena,CA,16-Apr-08,7000000,USD,a
+643,643,643,643,643,643,opendns,OpenDNS,15.0,web,San Francisco,CA,1-Jun-06,2000000,USD,a
+644,644,644,644,644,644,coveo,Coveo,,web,Palo Alto,CA,6-Mar-08,2500000,USD,a
+645,645,645,645,645,645,vizu,Vizu,,web,San Francisco,CA,20-Feb-06,1000000,USD,a
+646,646,646,646,646,646,vizu,Vizu,,web,San Francisco,CA,31-Jan-07,2900000,USD,b
+647,647,647,647,647,647,taltopia,Taltopia,,web,Los Angeles,CA,8-Mar-08,800000,USD,angel
+648,648,648,648,648,648,kapow-technologies,Kapow Technologies,,web,Palo Alto,CA,6-Mar-08,11600000,USD,c
+649,649,649,649,649,649,kapow-technologies,Kapow Technologies,,web,Palo Alto,CA,1-Feb-05,5100000,EUR,b
+650,650,650,650,650,650,programmermeetdesigner-com,ProgrammerMeetDesigner.com,4.0,web,Los Angeles,CA,12-Dec-07,500000,USD,seed
+651,651,651,651,651,651,liveops,LiveOps,,web,Santa Clara,CA,1-Apr-04,22000000,USD,b
+652,652,652,652,652,652,liveops,LiveOps,,web,Santa Clara,CA,13-Feb-07,28000000,USD,c
+653,653,653,653,653,653,clickpass,Clickpass,,web,San Francisco,CA,1-Jun-07,20000,USD,seed
+654,654,654,654,654,654,searchme,SearchMe,52.0,web,Mountain View,CA,1-Jul-05,400000,USD,a
+655,655,655,655,655,655,searchme,SearchMe,52.0,web,Mountain View,CA,1-Jan-06,3600000,USD,b
+656,656,656,656,656,656,searchme,SearchMe,52.0,web,Mountain View,CA,1-Jun-07,12000000,USD,c
+657,657,657,657,657,657,searchme,SearchMe,52.0,web,Mountain View,CA,1-Oct-07,15000000,USD,d
+658,658,658,658,658,658,searchme,SearchMe,52.0,web,Mountain View,CA,1-May-08,12600000,USD,e
+659,659,659,659,659,659,accountnow,AccountNow,,web,San Ramon,CA,29-Jun-07,12750000,USD,c
+660,660,660,660,660,660,dailystrength,DailyStrength,14.0,web,Los Angeles,CA,18-May-07,4000000,USD,a
+661,661,661,661,661,661,popularmedia,PopularMedia,,web,San Francisco,CA,1-Mar-07,4250000,USD,unattributed
+662,662,662,662,662,662,popularmedia,PopularMedia,,web,San Francisco,CA,28-Jul-08,8000000,USD,c
+663,663,663,663,663,663,clarizen,Clarizen,5.0,web,San Mateo,CA,1-May-08,9000000,USD,b
+664,664,664,664,664,664,sellpoint,SellPoint,,web,San Ramon,CA,27-Feb-08,7000000,USD,a
+665,665,665,665,665,665,livedeal,LiveDeal,,web,Santa Clara,CA,26-Oct-05,4900000,USD,a
+666,666,666,666,666,666,neoedge-networks,NeoEdge Networks,,web,Mountain View,CA,8-Jun-07,3000000,USD,b
+667,667,667,667,667,667,zuora,Zuora,30.0,web,Redwood City,CA,13-Mar-08,6500000,USD,a
+668,668,668,668,668,668,jivox,Jivox,,web,San Mateo,CA,10-Mar-08,2700000,USD,seed
+669,669,669,669,669,669,jivox,Jivox,,web,San Mateo,CA,16-Jun-08,10700000,USD,a
+670,670,670,670,670,670,elastra,Elastra,,,San Francisco,CA,15-Aug-07,2600000,USD,a
+671,671,671,671,671,671,kwiry,kwiry,3.0,mobile,San Francisco,CA,20-Mar-07,1000000,USD,a
+672,672,672,672,672,672,supplyframe,SupplyFrame,25.0,web,Pasadena,CA,21-Jun-07,7000000,USD,b
+673,673,673,673,673,673,inmage-systems,InMage Systems,,software,Santa Clara,CA,10-Jul-07,10000000,USD,b
+674,674,674,674,674,674,authenticlick,Authenticlick,20.0,web,Los Angeles,CA,1-Feb-06,5000000,USD,a
+675,675,675,675,675,675,interneer,Interneer,6.0,web,Agoura Hills,CA,6-Jun-07,2000000,USD,angel
+676,676,676,676,676,676,interneer,Interneer,6.0,web,Agoura Hills,CA,11-Mar-07,1200000,USD,a
+677,677,677,677,677,677,handipoints,Handipoints,,web,Oakland,CA,2-May-07,250000,USD,seed
+678,678,678,678,678,678,handipoints,Handipoints,,web,Oakland,CA,2-May-08,550000,USD,angel
+679,679,679,679,679,679,adconion-media-group,Adconion Media Group,150.0,web,Santa Monica,CA,24-Feb-08,80000000,USD,c
+680,680,680,680,680,680,zend-technologies,Zend Technologies,,,Cupertino,CA,28-Aug-06,20000000,USD,d
+681,681,681,681,681,681,zend-technologies,Zend Technologies,,,Cupertino,CA,19-Jul-04,8000000,USD,c
+682,682,682,682,682,682,slideshare,SlideShare,10.0,web,San Francisco,CA,7-May-08,3000000,USD,a
+683,683,683,683,683,683,intent,Intent,6.0,web,Santa Monica,CA,1-Feb-08,250000,USD,angel
+684,684,684,684,684,684,wikimedia-foundation,Wikimedia Foundation,,web,San Francisco,CA,25-Mar-08,3000000,USD,unattributed
+685,685,685,685,685,685,clearwell-systems,Clearwell Systems,75.0,software,Mountain View,CA,22-Aug-07,17000000,USD,c
+686,686,686,686,686,686,become,Become,,web,Mountain View,CA,25-Mar-08,17500000,USD,c
+687,687,687,687,687,687,become,Become,,web,Mountain View,CA,17-Jul-08,8000000,USD,d
+688,688,688,688,688,688,bubble-motion,Bubble Motion,,mobile,Mountain View,CA,26-Mar-08,14000000,USD,b
+689,689,689,689,689,689,bubble-motion,Bubble Motion,,mobile,Mountain View,CA,11-Sep-06,10000000,USD,a
+690,690,690,690,690,690,perfect-market,Perfect Market,,web,Pasadena,CA,9-Jul-08,15600000,USD,a
+691,691,691,691,691,691,glassdoor,Glassdoor,12.0,web,Sausalito,CA,27-Mar-08,3000000,USD,b
+692,692,692,692,692,692,support-space,Support Space,,web,Redwood City,CA,24-Oct-06,4250000,USD,a
+693,693,693,693,693,693,xoopit,Xoopit,,web,San Francisco,CA,1-Dec-06,1500000,USD,angel
+694,694,694,694,694,694,xoopit,Xoopit,,web,San Francisco,CA,2-Apr-08,5000000,USD,a
+695,695,695,695,695,695,reality-digital,Reality Digital,,software,San Francisco,CA,1-Nov-05,2000000,USD,a
+696,696,696,696,696,696,reality-digital,Reality Digital,,software,San Francisco,CA,31-Mar-08,6300000,USD,b
+697,697,697,697,697,697,cloud9-analytics,Cloud9 Analytics,,web,San Mateo,CA,25-Jul-07,5000000,USD,a
+698,698,698,698,698,698,netcipia,Netcipia,3.0,web,Palo Alto,CA,30-Aug-07,200000,USD,angel
+699,699,699,699,699,699,icontrol,iControl,,web,Palo Alto,CA,2-Apr-08,15500000,USD,b
+700,700,700,700,700,700,icontrol,iControl,,web,Palo Alto,CA,26-Apr-06,5000000,USD,a
+701,701,701,701,701,701,frengo,Frengo,,web,San Mateo,CA,1-Dec-06,2300000,USD,a
+702,702,702,702,702,702,frengo,Frengo,,web,San Mateo,CA,3-May-07,5700000,USD,b
+703,703,703,703,703,703,mblox,mBlox,,mobile,Sunnyvale,CA,23-Feb-06,25000000,USD,d
+704,704,704,704,704,704,mblox,mBlox,,mobile,Sunnyvale,CA,9-Mar-05,7500000,USD,c
+705,705,705,705,705,705,mblox,mBlox,,mobile,Sunnyvale,CA,9-Jul-04,10000000,USD,b
+706,706,706,706,706,706,mblox,mBlox,,mobile,Sunnyvale,CA,28-Jan-08,22000000,USD,e
+707,707,707,707,707,707,esolar,eSolar,10.0,hardware,Pasadena,CA,17-Jan-08,10000000,USD,a
+708,708,708,708,708,708,esolar,eSolar,10.0,hardware,Pasadena,CA,21-Apr-08,130000000,USD,b
+709,709,709,709,709,709,marin-software,Marin Software,,software,San Francisco,CA,5-Oct-06,2000000,USD,a
+710,710,710,710,710,710,marin-software,Marin Software,,software,San Francisco,CA,9-Apr-08,7250000,USD,b
+711,711,711,711,711,711,sibeam,SiBEAM,,hardware,Sunnyvale,CA,1-Dec-04,1250000,USD,seed
+712,712,712,712,712,712,sibeam,SiBEAM,,hardware,Sunnyvale,CA,1-May-05,15000000,USD,a
+713,713,713,713,713,713,sibeam,SiBEAM,,hardware,Sunnyvale,CA,1-Aug-06,21000000,USD,b
+714,714,714,714,714,714,sibeam,SiBEAM,,hardware,Sunnyvale,CA,7-Apr-08,40000000,USD,c
+715,715,715,715,715,715,lumosity,Lumos Labs,,web,San Francisco,CA,11-Jun-07,400000,USD,angel
+716,716,716,716,716,716,lumosity,Lumos Labs,,web,San Francisco,CA,3-Jun-08,3000000,USD,a
+717,717,717,717,717,717,irise,iRise,150.0,software,El Segundo,CA,1-Mar-08,20000000,USD,unattributed
+718,718,718,718,718,718,richrelevance,richrelevance,,web,San Francisco,CA,8-Apr-08,4200000,USD,b
+719,719,719,719,719,719,labmeeting,Labmeeting,,web,,CA,1-May-08,500000,USD,seed
+720,720,720,720,720,720,shopflick,Shopflick,10.0,web,Los Angeles,CA,15-Mar-08,1000000,USD,angel
+721,721,721,721,721,721,shopflick,Shopflick,10.0,web,Los Angeles,CA,1-Jul-08,7000000,USD,a
+722,722,722,722,722,722,turnhere,TurnHere,35.0,web,Emeryville,CA,15-Feb-08,7500000,USD,a
+723,723,723,723,723,723,turnhere,TurnHere,35.0,web,Emeryville,CA,1-Nov-06,1100000,USD,seed
+724,724,724,724,724,724,coupa,Coupa,,web,Foster City,CA,13-Mar-07,1500000,USD,a
+725,725,725,725,725,725,coupa,Coupa,,web,Foster City,CA,9-Apr-08,6000000,USD,b
+726,726,726,726,726,726,squaretrade,SquareTrade,,hardware,San Francisco,CA,1-Oct-99,400000,USD,seed
+727,727,727,727,727,727,squaretrade,SquareTrade,,hardware,San Francisco,CA,10-Apr-08,9000000,USD,b
+728,728,728,728,728,728,v-enable,V-Enable,,mobile,San Diego,CA,28-Feb-06,6000000,USD,c
+729,729,729,729,729,729,v-enable,V-Enable,,mobile,San Diego,CA,21-Sep-03,3750000,USD,b
+730,730,730,730,730,730,aeria,Aeria,,web,Santa Clara,CA,1-Oct-07,288000,USD,seed
+731,731,731,731,731,731,heysan,Heysan,6.0,mobile,San Francisco,CA,24-Jan-07,20000,USD,seed
+732,732,732,732,732,732,memeo,Memeo,,software,Aliso Viejo,CA,7-Jan-08,8100000,USD,b
+733,733,733,733,733,733,imageshack,imageshack,,web,Los Gatos,CA,1-May-07,10000000,USD,a
+734,734,734,734,734,734,pluggedin,PluggedIn,,,Santa Monica,CA,15-Apr-08,2000000,USD,unattributed
+735,735,735,735,735,735,cellspin,CellSpin,12.0,mobile,San Jose,CA,1-Dec-06,1100000,USD,angel
+736,736,736,736,736,736,remixation,Remixation,5.0,web,San Francisco,CA,1-Jul-07,1000000,USD,a
+737,737,737,737,737,737,the-auteurs,The Auteurs,9.0,web,Palo Alto,CA,1-Aug-07,750000,USD,a
+738,738,738,738,738,738,modern-feed,Modern Feed,,web,Los Angeles,CA,1-Apr-07,3000000,USD,seed
+739,739,739,739,739,739,grou-ps,GROU.PS,,web,San Francisco,CA,1-Jun-08,1100000,USD,a
+740,740,740,740,740,740,triggit,Triggit,5.0,web,San Francisco,CA,1-Mar-07,350000,USD,seed
+741,741,741,741,741,741,triggit,Triggit,5.0,web,San Francisco,CA,1-Jul-07,500000,USD,angel
+742,742,742,742,742,742,serious-business,Serious Business,6.0,web,San Francisco,CA,25-Apr-08,4000000,USD,unattributed
+743,743,743,743,743,743,presdo,Presdo,1.0,web,Mountain View,CA,1-Dec-07,35000,USD,seed
+744,744,744,744,744,744,nile-guide,Nile Guide,,web,San Francisco,CA,5-Jun-08,8000000,USD,b
+745,745,745,745,745,745,adify,Adify,10.0,web,San Bruno,CA,1-Aug-06,8000000,USD,a
+746,746,746,746,746,746,adify,Adify,10.0,web,San Bruno,CA,18-Apr-07,19000000,USD,b
+747,747,747,747,747,747,invensense,Invensense,,hardware,Sunnyvale,CA,28-Apr-08,19000000,USD,c
+748,748,748,748,748,748,centerd,Center'd,,web,Menlo Park,CA,1-Feb-07,1000000,USD,angel
+749,749,749,749,749,749,centerd,Center'd,,web,Menlo Park,CA,1-Oct-07,5500000,USD,a
+750,750,750,750,750,750,centerd,Center'd,,web,Menlo Park,CA,1-May-07,500000,USD,debt_round
+751,751,751,751,751,751,new-relic,New Relic,,web,,CA,1-Apr-08,3500000,USD,a
+752,752,752,752,752,752,gridstone-research,Gridstone Research,,software,San Mateo,CA,4-Apr-08,10000000,USD,b
+753,753,753,753,753,753,fusionops,FusionOps,10.0,software,Sunnyvale,CA,1-Mar-05,4000000,USD,a
+754,754,754,754,754,754,marketlive,MarketLive,,software,Foster City,CA,5-May-08,20000000,USD,e
+755,755,755,755,755,755,snaplogic,SnapLogic,,software,San Mateo,CA,22-May-07,2500000,USD,a
+756,756,756,756,756,756,boardwalktech,Boardwalktech,20.0,software,Palo Alto,CA,1-Oct-06,500000,USD,angel
+757,757,757,757,757,757,rosum,Rosum,,hardware,Mountain View,CA,15-Apr-08,15000000,USD,b
+758,758,758,758,758,758,citizenhawk,CitizenHawk,,,Aliso Viejo,CA,12-May-08,3000000,USD,unattributed
+759,759,759,759,759,759,dilithium-networks,Dilithium Networks,,web,Petaluma,CA,23-Apr-03,10000000,USD,b
+760,760,760,760,760,760,dilithium-networks,Dilithium Networks,,web,Petaluma,CA,14-Mar-05,18000000,USD,c
+761,761,761,761,761,761,dilithium-networks,Dilithium Networks,,web,Petaluma,CA,3-Jul-07,33000000,USD,d
+762,762,762,762,762,762,passenger,Passenger,,,Los Angeles,CA,5-Nov-07,8300000,USD,b
+763,763,763,763,763,763,passenger,Passenger,,,Los Angeles,CA,14-Mar-08,12200000,USD,c
+764,764,764,764,764,764,experience-project,Experience Project,,web,San Francisco,CA,13-May-08,3000000,USD,a
+765,765,765,765,765,765,mozes,Mozes,,web,Palo Alto,CA,22-Feb-07,5000000,USD,a
+766,766,766,766,766,766,mozes,Mozes,,web,Palo Alto,CA,1-May-08,11500000,USD,b
+767,767,767,767,767,767,rvita,rVita,6.0,software,Santa Clara,CA,1-Oct-07,1000000,USD,angel
+768,768,768,768,768,768,mefeedia,Mefeedia,6.0,web,Burbank,CA,19-Mar-08,250000,USD,angel
+769,769,769,769,769,769,wavemaker-software,Wavemaker Software,,software,San Francisco,CA,15-Apr-08,4500000,USD,a
+770,770,770,770,770,770,virtuallogix,VirtualLogix,,software,Sunnyvale,CA,11-Jul-07,16000000,USD,b
+771,771,771,771,771,771,fonemesh,Fonemesh,7.0,software,San Francisco,CA,1-Jun-08,100000,USD,angel
+772,772,772,772,772,772,fonemesh,Fonemesh,7.0,software,San Francisco,CA,1-May-08,150000,USD,seed
+773,773,773,773,773,773,cognition-technologies,Cognition Technologies,20.0,software,Culver City,CA,15-Jul-08,2700000,USD,unattributed
+774,774,774,774,774,774,sometrics,Sometrics,,web,Los Angeles,CA,14-May-08,1000000,USD,a
+775,775,775,775,775,775,socialvibe,SocialVibe,,web,Los Angeles,CA,1-Dec-07,4200000,USD,a
+776,776,776,776,776,776,deviantart,deviantART,,web,Hollywood,CA,21-Jun-07,3500000,USD,a
+777,777,777,777,777,777,mythings,MyThings,,web,Menlo Park,CA,1-Apr-06,8000000,USD,a
+778,778,778,778,778,778,mywaves,mywaves,35.0,mobile,Sunnyvale,CA,8-Dec-06,6000000,USD,a
+779,779,779,779,779,779,litescape,litescape,,web,Redwood Shores,CA,6-Aug-07,14000000,USD,b
+780,780,780,780,780,780,nextbio,nextbio,,,Cupertino,CA,6-Jun-07,7000000,USD,b
+781,781,781,781,781,781,parascale,Parascale,,software,Cupertino,CA,23-Jun-08,11370000,USD,a
+782,782,782,782,782,782,row44,Row44,,hardware,Westlake Village,CA,20-May-08,21000000,USD,a
+783,783,783,783,783,783,jellycloud,JellyCloud,,web,Redwood City,CA,16-May-08,6600000,USD,a
+784,784,784,784,784,784,aster-data-systems,Aster Data Systems,50.0,software,Redwood City,CA,1-Nov-05,1000000,USD,angel
+785,785,785,785,785,785,aster-data-systems,Aster Data Systems,50.0,software,Redwood City,CA,1-May-07,5000000,USD,a
+786,786,786,786,786,786,pixim,Pixim,,hardware,Mountain View,CA,7-Mar-07,15000000,USD,b
+787,787,787,787,787,787,pixim,Pixim,,hardware,Mountain View,CA,9-Jun-05,12000000,USD,a
+788,788,788,788,788,788,pixim,Pixim,,hardware,Mountain View,CA,12-Jun-07,5100000,USD,b
+789,789,789,789,789,789,funambol,Funambol,,mobile,Redwood City,CA,8-Aug-05,5000000,USD,a
+790,790,790,790,790,790,funambol,Funambol,,mobile,Redwood City,CA,1-Dec-06,5500000,USD,a
+791,791,791,791,791,791,funambol,Funambol,,mobile,Redwood City,CA,17-Jun-08,12500000,USD,b
+792,792,792,792,792,792,funambol,Funambol,,mobile,Redwood City,CA,1-Jun-08,2000000,USD,debt_round
+793,793,793,793,793,793,moblyng,Moblyng,,web,Menlo Park,CA,21-May-08,5700000,USD,b
+794,794,794,794,794,794,moblyng,Moblyng,,web,Menlo Park,CA,28-Mar-07,1530000,USD,a
+795,795,795,795,795,795,zecter,Zecter,3.0,web,Mountain View,CA,1-Jun-07,15000,USD,seed
+796,796,796,796,796,796,votigo,Votigo,,web,Emeryville,CA,31-Dec-07,1265000,USD,a
+797,797,797,797,797,797,zinio,Zinio,,web,San Francisco,CA,12-Sep-05,7000000,USD,a
+798,798,798,798,798,798,dreamfactory,Dreamfactory,,web,Mountain View,CA,8-May-06,5800000,USD,a
+799,799,799,799,799,799,greennote,GreenNote,15.0,web,Redwood City,CA,1-Oct-07,4200000,USD,a
+800,800,800,800,800,800,skyfire,Skyfire,,software,Mountain View,CA,1-Jun-07,4800000,USD,a
+801,801,801,801,801,801,skyfire,Skyfire,,software,Mountain View,CA,28-May-08,13000000,USD,b
+802,802,802,802,802,802,edufire,eduFire,,web,Santa Monica,CA,9-Apr-08,400000,USD,angel
+803,803,803,803,803,803,b-hive-networks,B-hive Networks,,software,San Mateo,CA,25-Aug-06,7000000,USD,a
+804,804,804,804,804,804,vmware,VMware,5000.0,,Palo Alto,CA,30-Jul-07,150000000,USD,unattributed
+805,805,805,805,805,805,katalyst-media,Katalyst Media,11.0,,Los Angeles,CA,28-Jan-08,10000000,USD,a
+806,806,806,806,806,806,neurovigil,NeuroVigil,5.0,biotech,La Jolla,CA,30-May-08,250000,USD,seed
+807,807,807,807,807,807,sylantro,Sylantro,,web,Campbell,CA,1-Apr-06,11000000,USD,e
+808,808,808,808,808,808,sylantro,Sylantro,,web,Campbell,CA,1-Nov-03,4500000,USD,d
+809,809,809,809,809,809,sylantro,Sylantro,,web,Campbell,CA,1-Oct-00,55000000,USD,c
+810,810,810,810,810,810,teleflip,TeleFlip,,mobile,Santa Monica,CA,1-Jan-08,4900000,USD,b
+811,811,811,811,811,811,vidshadow,Vidshadow,16.0,web,Placentia,CA,15-Feb-07,2000000,USD,a
+812,812,812,812,812,812,jigsaw,Jigsaw,,web,San Mateo,CA,1-Dec-03,750000,USD,a
+813,813,813,813,813,813,jigsaw,Jigsaw,,web,San Mateo,CA,1-Sep-04,5200000,USD,b
+814,814,814,814,814,814,jigsaw,Jigsaw,,web,San Mateo,CA,1-Mar-06,12000000,USD,c
+815,815,815,815,815,815,ozmo-devices,Ozmo Devices,,hardware,Palo Alto,CA,30-Mar-06,12550000,USD,a
+816,816,816,816,816,816,cooliris,Cooliris,,web,Menlo Park,CA,1-Jul-07,3000000,USD,a
+817,817,817,817,817,817,gamook,Gamook,,web,Menlo Park,CA,16-Mar-08,1500000,USD,a
+818,818,818,818,818,818,vindicia,Vindicia,,web,Redwood City,CA,31-Mar-08,5600000,USD,c
+819,819,819,819,819,819,dizzywood,Dizzywood,,web,,CA,7-Feb-08,1000000,USD,a
+820,820,820,820,820,820,limbo,Limbo,37.0,web,Burlingame,CA,25-Apr-07,8000000,USD,b
+821,821,821,821,821,821,startforce,StartForce,21.0,web,San Francisco,CA,1-Sep-07,1000000,USD,a
+822,822,822,822,822,822,coolearth,coolearth,9.0,cleantech,Livermore,CA,20-Feb-08,21000000,USD,a
+823,823,823,823,823,823,coolearth,coolearth,9.0,cleantech,Livermore,CA,1-Jun-07,1000000,USD,angel
+824,824,824,824,824,824,yield-software,Yield Software,,web,San Mateo,CA,4-Jun-08,6000000,USD,b
+825,825,825,825,825,825,tapulous,Tapulous,9.0,web,Palo Alto,CA,1-Jul-08,1800000,USD,angel
+826,826,826,826,826,826,codefast,Codefast,,software,San Jose,CA,15-Mar-05,6500000,USD,a
+827,827,827,827,827,827,hyperic,Hyperic,,web,San Francisco,CA,10-May-06,3800000,USD,a
+828,828,828,828,828,828,ipling-2,iPling :)),7.0,mobile,San Francisco,CA,1-Mar-08,300000,USD,angel
+829,829,829,829,829,829,intacct,Intacct,100.0,software,San Jose,CA,29-Apr-08,15000000,USD,unattributed
+830,830,830,830,830,830,intacct,Intacct,100.0,software,San Jose,CA,27-Jun-07,14000000,USD,unattributed
+831,831,831,831,831,831,vivaty,Vivaty,25.0,web,Menlo Park,CA,1-Aug-07,9400000,USD,a
+832,832,832,832,832,832,aurora-biofuels,Aurora Biofuels,,cleantech,Alameda,CA,10-Jun-08,20000000,USD,b
+833,833,833,833,833,833,eeye,eEye,,,Irvine,CA,1-Jun-04,15000000,USD,d
+834,834,834,834,834,834,eeye,eEye,,,Irvine,CA,1-Dec-02,9000000,USD,c
+835,835,835,835,835,835,allbusiness-com,AllBusiness.com,50.0,other,San Francisco,CA,1-Jul-04,10000000,USD,b
+836,836,836,836,836,836,allbusiness-com,AllBusiness.com,50.0,other,San Francisco,CA,1-Feb-06,12400000,USD,c
+837,837,837,837,837,837,insideview,InsideView,40.0,software,San Francisco,CA,1-Jun-07,7400000,USD,a
+838,838,838,838,838,838,clickability,Clickability,,software,San Francisco,CA,14-Jul-08,3500000,USD,debt_round
+839,839,839,839,839,839,keibi-technologies,Keibi Technologies,30.0,software,San Francisco,CA,1-May-07,5000000,USD,b
+840,840,840,840,840,840,robodynamics,RoboDynamics,5.0,hardware,Santa Monica,CA,1-Sep-03,100000,USD,seed
+841,841,841,841,841,841,robodynamics,RoboDynamics,5.0,hardware,Santa Monica,CA,1-May-06,500000,USD,angel
+842,842,842,842,842,842,imagespan,ImageSpan,,web,Sausalito,CA,23-Jun-08,11000000,USD,b
+843,843,843,843,843,843,solarflare,Solarflare,,hardware,Irvine,CA,18-Jun-08,26000000,USD,unattributed
+844,844,844,844,844,844,clupedia,Clupedia,,web,Santa Ana,CA,22-May-07,1300000,USD,a
+845,845,845,845,845,845,zigabid,Zigabid,10.0,other,La Canada,CA,1-Dec-06,500000,USD,seed
+846,846,846,846,846,846,zigabid,Zigabid,10.0,other,La Canada,CA,1-Feb-08,500000,USD,angel
+847,847,847,847,847,847,inthrma,InThrMa,3.0,software,Oakland,CA,1-Oct-07,10000,USD,seed
+848,848,848,848,848,848,webaroo,Webaroo,,,Santa Clara,CA,22-Dec-06,10000000,USD,b
+849,849,849,849,849,849,webaroo,Webaroo,,,Santa Clara,CA,5-Jul-08,10000000,USD,c
+850,850,850,850,850,850,fluid-entertainment,Fluid Entertainment,,other,Mill Valley,CA,12-Mar-08,3200000,USD,a
+851,851,851,851,851,851,unisfair,Unisfair,,other,Menlo Park,CA,21-Jan-08,10000000,USD,b
+852,852,852,852,852,852,on24,ON24,,web,San Francisco,CA,11-Jul-08,8000000,USD,unattributed
+853,853,853,853,853,853,trueanthem,trueAnthem,10.0,other,Newport Beach,CA,28-Jul-08,2000000,USD,angel
+854,854,854,854,854,854,colizer,Colizer,,web,San Diego,CA,1-Apr-04,120000,USD,a
+855,855,855,855,855,855,coremetrics,Coremetrics,,software,San Mateo,CA,9-Mar-06,31000000,USD,d
+856,856,856,856,856,856,coremetrics,Coremetrics,,software,San Mateo,CA,4-Apr-08,60000000,USD,e
+857,857,857,857,857,857,minted,Minted,,,San Francisco,CA,18-Jul-08,2500000,USD,seed
+858,858,858,858,858,858,appirio,Appirio,,software,San Mateo,CA,13-Mar-08,1100000,USD,a
+859,859,859,859,859,859,appirio,Appirio,,software,San Mateo,CA,21-Jul-08,10000000,USD,b
+860,860,860,860,860,860,samfind,samfind,3.0,web,Los Angeles,CA,1-Jan-06,20000,USD,seed
+861,861,861,861,861,861,eye-fi,Eye-Fi,,hardware,Mountain View,CA,11-Jun-07,5500000,USD,a
+862,862,862,862,862,862,responselogix,ResponseLogix,,web,Sunnyvale,CA,23-Jan-08,8000000,USD,a
+863,863,863,863,863,863,qumu,Qumu,,software,Emeryville,CA,21-Jul-08,10700000,USD,c
+864,864,864,864,864,864,carbonflow,CarbonFlow,,cleantech,San Francsico,CA,23-Jul-08,2900000,USD,a
+865,865,865,865,865,865,allvoices,Allvoices,8.0,web,San Francisco,CA,31-Jul-07,4500000,USD,a
+866,866,866,866,866,866,moxsie,Moxsie,,web,Palo Alto,CA,27-Jun-08,1000000,USD,a
+867,867,867,867,867,867,service-now-com,Service-now.com,80.0,web,Solana Beach,CA,5-Jul-05,2500000,USD,a
+868,868,868,868,868,868,service-now-com,Service-now.com,80.0,web,Solana Beach,CA,5-Dec-06,5000000,USD,b
+869,869,869,869,869,869,anvato,Anvato,,web,Mountain View,CA,29-Jul-08,550000,USD,seed
+870,870,870,870,870,870,vantage-media,Vantage Media,150.0,web,El Segundo,CA,28-Feb-07,70000000,USD,a
+871,871,871,871,871,871,entone-technologies,Entone Technologies,80.0,hardware,San Mateo,CA,1-Aug-08,14500000,USD,b
+872,872,872,872,872,872,entone-technologies,Entone Technologies,80.0,hardware,San Mateo,CA,2-May-03,9500000,USD,a
+873,873,873,873,873,873,750-industries,750 Industries,7.0,web,San Francisco,CA,1-Aug-08,1000000,USD,a
+874,874,874,874,874,874,plastic-logic,Plastic Logic,,hardware,Mountain View,CA,20-Apr-02,13700000,USD,a
+875,875,875,875,875,875,plastic-logic,Plastic Logic,,hardware,Mountain View,CA,5-Jan-05,8000000,USD,b
+876,876,876,876,876,876,plastic-logic,Plastic Logic,,hardware,Mountain View,CA,30-Nov-05,24000000,USD,c
+877,877,877,877,877,877,plastic-logic,Plastic Logic,,hardware,Mountain View,CA,6-Jan-07,100000000,USD,d
+878,878,878,878,878,878,plastic-logic,Plastic Logic,,hardware,Mountain View,CA,4-Aug-08,50000000,USD,e
+879,879,879,879,879,879,paymo,Paymo,,mobile,San Francisco,CA,1-Aug-08,5000000,USD,seed
+880,880,880,880,880,880,brilliant-telecom,Brilliant Telecom,,,Campbell,CA,4-Aug-08,11000000,USD,a
+881,881,881,881,881,881,skygrid,SkyGrid,,web,Sunnyvale,CA,6-Aug-08,11000000,USD,b
+882,882,882,882,882,882,intensedebate,Intense Debate,4.0,web,Boulder,CO,1-May-07,15000,USD,seed
+883,883,883,883,883,883,associatedcontent,Associated Content,,web,Denver,CO,1-Jan-06,5400000,USD,a
+884,884,884,884,884,884,associatedcontent,Associated Content,,web,Denver,CO,1-Jul-07,10000000,USD,b
+885,885,885,885,885,885,madkast,madKast,,web,Boulder,CO,1-Mar-07,15000,USD,seed
+886,886,886,886,886,886,madkast,madKast,,web,Boulder,CO,1-Oct-07,300000,USD,a
+887,887,887,887,887,887,eventvue,EventVue,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+888,888,888,888,888,888,eventvue,EventVue,,web,Boulder,CO,1-Sep-07,250000,USD,a
+889,889,889,889,889,889,socialthing,Socialthing!,6.0,web,Boulder,CO,18-May-07,15000,USD,seed
+890,890,890,890,890,890,socialthing,Socialthing!,6.0,web,Boulder,CO,1-Oct-07,500000,USD,debt_round
+891,891,891,891,891,891,jsquaredmedia,J Squared Media,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+892,892,892,892,892,892,searchtophone,Search to Phone,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+893,893,893,893,893,893,filtrbox,Filtrbox,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+894,894,894,894,894,894,filtrbox,Filtrbox,,web,Boulder,CO,28-Feb-08,500000,USD,seed
+895,895,895,895,895,895,brightkite,Brightkite,,web,Denver,CO,1-Aug-07,15000,USD,seed
+896,896,896,896,896,896,brightkite,Brightkite,,web,Denver,CO,1-Mar-08,1000000,USD,angel
+897,897,897,897,897,897,newsgator,NewsGator,,web,Denver,CO,23-Jun-04,1400000,USD,a
+898,898,898,898,898,898,newsgator,NewsGator,,web,Denver,CO,1-Dec-07,12000000,USD,c
+899,899,899,899,899,899,newsgator,NewsGator,,web,Denver,CO,1-Dec-04,8600000,USD,b
+900,900,900,900,900,900,me-dium,Me.dium,,web,Boulder,CO,1-Jun-07,15000000,USD,b
+901,901,901,901,901,901,buzzwire,Buzzwire,,web,Denver,CO,1-Dec-07,8000000,USD,b
+902,902,902,902,902,902,hivelive,HiveLive,,web,Boulder,CO,1-Feb-08,2200000,USD,angel
+903,903,903,903,903,903,hivelive,HiveLive,,web,Boulder,CO,27-Feb-08,5600000,USD,a
+904,904,904,904,904,904,xaware,XAware,,web,Colorado Springs,CO,1-Jan-08,7400000,USD,b
+905,905,905,905,905,905,xaware,XAware,,web,Colorado Springs,CO,1-Nov-02,2100000,USD,a
+906,906,906,906,906,906,lijit,Lijit,,web,Boulder,CO,1-Jan-07,900000,USD,a
+907,907,907,907,907,907,lijit,Lijit,,web,Boulder,CO,1-Jun-07,3300000,USD,b
+908,908,908,908,908,908,hubbuzz,hubbuzz,8.0,web,Centennial,CO,1-Mar-07,750000,USD,angel
+909,909,909,909,909,909,gnip,Gnip,6.0,web,Boulder,CO,1-Mar-08,1100000,USD,a
+910,910,910,910,910,910,collective-intellect,Collective Intellect,,,Boulder,CO,1-Feb-06,2600000,USD,a
+911,911,911,911,911,911,collective-intellect,Collective Intellect,,,Boulder,CO,15-Apr-08,6600000,USD,b
+912,912,912,912,912,912,rally-software,Rally Software,,software,Boulder,CO,4-Jun-08,16850000,USD,c
+913,913,913,913,913,913,rally-software,Rally Software,,software,Boulder,CO,14-Jun-06,8000000,USD,b
+914,914,914,914,914,914,symplified,Symplified,,software,Boulder,CO,9-Jun-08,6000000,USD,a
+915,915,915,915,915,915,indeed,Indeed,,web,Stamford,CT,1-Aug-05,5000000,USD,a
+916,916,916,916,916,916,geezeo,Geezeo,,web,Hartford,CT,24-Apr-08,1200000,USD,unattributed
+917,917,917,917,917,917,entrecard,Entrecard,1.0,web,Hamden,CT,1-Jan-07,30000,USD,seed
+918,918,918,918,918,918,entrecard,Entrecard,1.0,web,Hamden,CT,1-Nov-07,40000,USD,seed
+919,919,919,919,919,919,americantowns-com,AmericanTowns.com,10.0,web,Fairfield,CT,1-Jul-06,1100000,USD,a
+920,920,920,920,920,920,americantowns-com,AmericanTowns.com,10.0,web,Fairfield,CT,1-Sep-07,3300000,USD,b
+921,921,921,921,921,921,kayak,Kayak,58.0,web,Norwalk,CT,1-May-06,11500000,USD,c
+922,922,922,922,922,922,kayak,Kayak,58.0,web,Norwalk,CT,1-Dec-04,7000000,USD,b
+923,923,923,923,923,923,kayak,Kayak,58.0,web,Norwalk,CT,1-Dec-07,196000000,USD,d
+924,924,924,924,924,924,gocrosscampus,GoCrossCampus,25.0,web,New Haven,CT,1-Sep-07,375000,USD,seed
+925,925,925,925,925,925,health-plan-one,Health Plan One,,web,Shelton,CT,21-Apr-08,6500000,USD,a
+926,926,926,926,926,926,your-survival,Your Survival,10.0,web,Westport,CT,1-Nov-07,350000,USD,angel
+927,927,927,927,927,927,media-lantern,Media Lantern,9.0,web,New London,CT,30-Mar-08,250000,USD,seed
+928,928,928,928,928,928,gridpoint,GridPoint,,cleantech,Washington,DC,1-Sep-07,32000000,USD,d
+929,929,929,929,929,929,gridpoint,GridPoint,,cleantech,Washington,DC,1-May-06,16000000,USD,b
+930,930,930,930,930,930,gridpoint,GridPoint,,cleantech,Washington,DC,1-Sep-06,21000000,USD,c
+931,931,931,931,931,931,gridpoint,GridPoint,,cleantech,Washington,DC,28-Mar-08,15000000,USD,d
+932,932,932,932,932,932,hotpads-com,HotPads,11.0,web,Washington,DC,1-Mar-07,2300000,USD,a
+933,933,933,933,933,933,launchbox,LaunchBox,,web,Washinton,DC,1-Feb-08,250000,USD,a
+934,934,934,934,934,934,cogent,Cogent,,web,Washington,DC,12-Feb-08,510000,USD,seed
+935,935,935,935,935,935,swapdrive,SwapDrive,,web,Washington,DC,1-May-00,2650000,USD,a
+936,936,936,936,936,936,swapdrive,SwapDrive,,web,Washington,DC,1-May-01,2000000,USD,a
+937,937,937,937,937,937,searchles,Searchles,,web,Washington,DC,1-Jul-08,2000000,USD,angel
+938,938,938,938,938,938,payperpost,PayPerPost,,web,Orlando,FL,1-Jun-07,7000000,USD,b
+939,939,939,939,939,939,payperpost,PayPerPost,,web,Orlando,FL,1-Oct-06,3000000,USD,a
+940,940,940,940,940,940,affinityinternet,Affinity Internet,,web,Fort Lauderdale,FL,1-Oct-99,60000000,USD,a
+941,941,941,941,941,941,affinityinternet,Affinity Internet,,web,Fort Lauderdale,FL,1-Jan-02,25000000,USD,a
+942,942,942,942,942,942,multiply,Multiply,,web,Boca Raton,FL,1-Nov-05,2000000,USD,a
+943,943,943,943,943,943,multiply,Multiply,,web,Boca Raton,FL,1-Jul-06,3000000,USD,a
+944,944,944,944,944,944,multiply,Multiply,,web,Boca Raton,FL,1-Aug-07,16600000,USD,b
+945,945,945,945,945,945,revolutionmoney,Revolution Money,,web,Largo,FL,1-Sep-07,50000000,USD,b
+946,946,946,946,946,946,batanga,Batanga,,web,Miami,FL,1-Aug-07,30000000,USD,c
+947,947,947,947,947,947,batanga,Batanga,,web,Miami,FL,1-Apr-06,5000000,USD,b
+948,948,948,948,948,948,divorce360,divorce360,6.0,web,North Palm Beach,FL,1-Sep-07,2500000,USD,a
+949,949,949,949,949,949,infinitybox,Infinity Box,3.0,web,Tampa,FL,1-Jan-06,18000,USD,seed
+950,950,950,950,950,950,infinitybox,Infinity Box,3.0,web,Tampa,FL,1-Apr-06,100000,USD,angel
+951,951,951,951,951,951,moli,MOLI,,web,West Palm Beach,FL,1-Jan-08,29600000,USD,b
+952,952,952,952,952,952,global-roaming,Global Roaming,29.0,mobile,Miami,FL,1-Feb-07,7500000,USD,a
+953,953,953,953,953,953,global-roaming,Global Roaming,29.0,mobile,Miami,FL,1-Feb-08,23000000,USD,b
+954,954,954,954,954,954,slingpage,Slingpage,8.0,software,Estero,FL,1-Dec-07,2250000,USD,angel
+955,955,955,955,955,955,wrapmail,WrapMail,10.0,web,Fort Lauderdale,FL,6-Jan-07,1100000,USD,seed
+956,956,956,956,956,956,ejamming,eJamming,,web,Boca Raton,FL,2-Jun-08,150000,USD,unattributed
+957,957,957,957,957,957,lehigh-technologies,Lehigh Technologies,,cleantech,Naples,FL,23-Jun-08,34500000,USD,unattributed
+958,958,958,958,958,958,tournease,TournEase,10.0,web,Lakeland,FL,1-Apr-06,3000000,USD,angel
+959,959,959,959,959,959,tournease,TournEase,10.0,web,Lakeland,FL,1-Mar-08,500000,USD,angel
+960,960,960,960,960,960,vitrue,Vitrue,,web,Atlanta,GA,1-Oct-07,10000000,USD,b
+961,961,961,961,961,961,vitrue,Vitrue,,web,Atlanta,GA,1-May-06,2200000,USD,seed
+962,962,962,962,962,962,screamingsports,Screaming Sports,,web,Atlanta,GA,1-Jul-07,1250000,USD,a
+963,963,963,963,963,963,berecruited,beRecruited,,web,Atlanta,GA,1-Nov-07,1200000,USD,a
+964,964,964,964,964,964,mfg,MFG,,web,Atlanta,GA,1-Sep-05,14000000,USD,a
+965,965,965,965,965,965,mfg,MFG,,web,Atlanta,GA,1-Jan-07,4000000,USD,c
+966,966,966,966,966,966,mfg,MFG,,web,Atlanta,GA,1-Jan-08,26000000,USD,d
+967,967,967,967,967,967,scintella-solutions,Scintella Solutions,2.0,consulting,Atlanta,GA,30-Apr-08,10000,USD,seed
+968,968,968,968,968,968,scribestorm,ScribeStorm,12.0,web,Fairfield,IA,24-Apr-06,225000,USD,angel
+969,969,969,969,969,969,balihoo,Balihoo,,mobile,Boise,ID,1-Jul-07,1500000,USD,a
+970,970,970,970,970,970,balihoo,Balihoo,,mobile,Boise,ID,1-Jan-08,4000000,USD,b
+971,971,971,971,971,971,info,Info,,web,Chicago,IL,1-Nov-04,8400000,USD,a
+972,972,972,972,972,972,feedburner,FeedBurner,,web,Chicago,IL,1-Jun-04,1000000,USD,a
+973,973,973,973,973,973,feedburner,FeedBurner,,web,Chicago,IL,1-Apr-05,7000000,USD,b
+974,974,974,974,974,974,viewpoints,Viewpoints,,web,Chicago,IL,1-Jun-07,5000000,USD,a
+975,975,975,975,975,975,grubhub,GrubHub,,web,Chicago,IL,1-Nov-07,1100000,USD,a
+976,976,976,976,976,976,ticketsnow,TicketsNow,,web,Rolling Meadows,IL,1-Jan-07,34000000,USD,a
+977,977,977,977,977,977,the-point,The Point,,web,Chicago,IL,1-Nov-07,2500000,USD,angel
+978,978,978,978,978,978,the-point,The Point,,web,Chicago,IL,1-Feb-08,4800000,USD,a
+979,979,979,979,979,979,inkling,Inkling,2.0,web,Chicago,IL,1-Jan-07,20000,USD,seed
+980,980,980,980,980,980,crowdspring,crowdSPRING,6.0,web,Chicago,IL,23-May-08,3000000,USD,angel
+981,981,981,981,981,981,ifbyphone,Ifbyphone,16.0,web,Skokie,IL,1-Jul-07,1500000,USD,a
+982,982,982,982,982,982,fave-media,Fave Media,18.0,web,Chicago,IL,17-Jan-08,1600000,USD,a
+983,983,983,983,983,983,accertify,Accertify,,web,Schaumburg,IL,3-Jun-08,4000000,USD,a
+984,984,984,984,984,984,firefly-energy,Firefly Energy,,cleantech,Peoria,IL,14-Oct-04,4000000,USD,a
+985,985,985,985,985,985,firefly-energy,Firefly Energy,,cleantech,Peoria,IL,10-Jun-08,15000000,USD,c
+986,986,986,986,986,986,firefly-energy,Firefly Energy,,cleantech,Peoria,IL,13-Nov-06,10000000,USD,b
+987,987,987,987,987,987,savo,SAVO,68.0,software,Chicago,IL,1-Sep-05,10000000,USD,a
+988,988,988,988,988,988,chacha,ChaCha,75.0,web,Carmel,IN,1-Jan-07,6000000,USD,a
+989,989,989,989,989,989,chacha,ChaCha,75.0,web,Carmel,IN,1-Nov-07,10000000,USD,b
+990,990,990,990,990,990,betterworld,Better World Books,,web,Mishawaka,IN,7-Apr-08,4500000,USD,a
+991,991,991,991,991,991,compendium-blogware,Compendium Blogware,25.0,software,Indianapolis,IN,1-May-07,1100000,USD,angel
+992,992,992,992,992,992,compendium-blogware,Compendium Blogware,25.0,software,Indianapolis,IN,1-May-08,1600000,USD,angel
+993,993,993,993,993,993,instagarage,Instagarage,4.0,web,New Orleans,LA,10-May-07,25000,USD,seed
+994,994,994,994,994,994,iskoot,iSkoot,,web,Cambridge,MA,27-Feb-07,7000000,USD,b
+995,995,995,995,995,995,iskoot,iSkoot,,web,Cambridge,MA,29-Nov-06,6200000,USD,a
+996,996,996,996,996,996,gotuitmedia,Gotuit Media,,web,Woburn,MA,1-Dec-04,10000000,USD,b
+997,997,997,997,997,997,gotuitmedia,Gotuit Media,,web,Woburn,MA,1-Dec-02,6000000,USD,a
+998,998,998,998,998,998,carbonite,Carbonite,68.0,web,Boston,MA,1-Mar-06,2500000,USD,a
+999,999,999,999,999,999,carbonite,Carbonite,68.0,web,Boston,MA,1-Dec-06,3500000,USD,a
